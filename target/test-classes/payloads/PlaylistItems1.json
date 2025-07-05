@@ -1,0 +1,17 @@
+[
+	{
+		"name":"PLTest1_Items",
+		"description":"Test1 playlist description",
+		"public":false
+	},
+	{
+		"name":"PLTest2_Items",
+		"description":"Test2 playlist description",
+		"public":false
+	},
+	{
+		"name":"PLTest3_Items",
+		"description":"Test3 playlist description",
+		"public":false
+	}
+]

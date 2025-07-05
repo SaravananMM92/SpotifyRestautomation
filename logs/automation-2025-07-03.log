@@ -1,0 +1,501 @@
+08:02:09.274 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+08:02:09.985 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :
+08:02:09.985 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID done *************
+08:02:09.987 [main] INFO  api.test.SpotifyCommonTest - ************ Getting Users Playlists *************
+08:02:10.195 [main] INFO  api.test.SpotifyCommonTest - ************ Getting Users Playlists done *************
+08:03:38.260 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+08:03:39.034 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :
+08:03:39.034 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID done *************
+08:06:16.267 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+08:06:17.086 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+08:06:17.086 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID done *************
+08:06:58.910 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+08:06:59.670 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+08:06:59.670 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+08:06:59.672 [main] INFO  api.test.SpotifyCommonTest - ************ Getting Users Playlists *************
+08:06:59.895 [main] INFO  api.test.SpotifyCommonTest - ************ Getting Users Playlists completed *************
+10:59:53.059 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+11:00:59.240 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+11:03:34.131 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+11:03:36.297 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+11:03:36.297 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+11:04:57.813 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+11:04:58.988 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+11:04:58.988 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+11:04:58.992 [main] INFO  api.test.SpotifyCommonTest - ************ Getting Users Playlists *************
+11:04:59.242 [main] INFO  api.test.SpotifyCommonTest - ************ Getting Users Playlists completed *************
+11:08:15.173 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+11:08:16.083 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+11:08:16.083 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+11:10:21.249 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+11:10:22.273 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+11:10:22.273 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+11:12:01.455 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+11:12:02.513 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+11:12:02.513 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+11:52:22.098 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+11:52:23.265 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+11:52:23.265 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+12:07:55.159 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+12:07:56.180 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+12:07:56.180 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+12:08:59.173 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+12:08:59.974 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+12:08:59.974 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+12:08:59.976 [main] INFO  api.test.SpotifyCommonTest - ************ Getting Users Playlists *************
+12:09:00.226 [main] INFO  api.test.SpotifyCommonTest - ************ Getting Users Playlists completed *************
+15:13:32.848 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+15:13:33.901 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+15:13:33.901 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+15:13:33.905 [main] INFO  api.test.SpotifyCommonTest - ************ Getting Users Playlists *************
+15:13:34.173 [main] INFO  api.test.SpotifyCommonTest - ************ Getting Users Playlists completed *************
+15:28:00.532 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+15:28:01.309 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+15:28:01.309 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+15:28:01.312 [main] INFO  api.test.SpotifyCommonTest - ************ Getting Users Playlists *************
+15:28:53.958 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+15:28:54.673 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+15:28:54.673 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+15:28:54.675 [main] INFO  api.test.SpotifyCommonTest - ************ Getting Users Playlists *************
+15:28:54.928 [main] INFO  api.test.SpotifyCommonTest - ************ Getting Users Playlists completed *************
+15:48:26.817 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+15:48:27.587 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+15:48:27.587 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+15:48:27.590 [main] INFO  api.test.SpotifyCommonTest - ************ Getting Users Playlists *************
+15:48:27.813 [main] INFO  api.test.SpotifyCommonTest - ************ Getting Users Playlists completed *************
+16:01:08.417 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+16:01:09.191 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+16:01:09.191 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+16:01:09.193 [main] INFO  api.test.SpotifyCommonTest - ************ Getting Users Playlists *************
+16:01:09.453 [main] INFO  api.test.SpotifyCommonTest - ************ Getting Users Playlists completed *************
+16:10:28.627 [main] INFO  api.test.SpotifyCommonTest - ************ Getting AccessToken *************
+16:10:29.283 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+16:10:29.737 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+16:10:29.738 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+16:10:29.739 [main] INFO  api.test.SpotifyCommonTest - ************ Getting Users Playlists *************
+16:10:30.029 [main] INFO  api.test.SpotifyCommonTest - ************ Getting Users Playlists completed *************
+16:11:42.533 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+16:11:43.339 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+16:11:43.339 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+16:11:43.341 [main] INFO  api.test.SpotifyCommonTest - ************ Getting Users Playlists *************
+16:11:43.582 [main] INFO  api.test.SpotifyCommonTest - ************ Getting Users Playlists completed *************
+21:29:26.373 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+21:29:27.601 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+21:29:27.601 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+21:29:55.981 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+21:29:56.704 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+21:29:56.704 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+21:29:56.706 [main] INFO  api.test.SpotifyCommonTest - ************ Getting Users Playlists *************
+21:29:56.956 [main] INFO  api.test.SpotifyCommonTest - ************ Getting Users Playlists completed *************
+21:30:56.065 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+21:30:56.876 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+21:30:56.876 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+21:35:41.197 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+21:35:41.971 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+21:35:41.971 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+21:35:41.973 [main] INFO  api.test.SpotifyCommonTest - ************ Getting Users Playlists *************
+21:35:42.307 [main] INFO  api.test.SpotifyCommonTest - ************ Getting Users Playlists completed *************
+22:11:09.079 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+22:11:09.901 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+22:11:09.901 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+22:11:09.903 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play list *******
+22:13:25.536 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+22:13:26.258 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+22:13:26.258 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+22:13:26.260 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play list *******
+22:14:29.353 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+22:14:30.085 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+22:14:30.085 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+22:14:30.087 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play list *******
+22:16:28.098 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+22:16:28.810 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+22:16:28.810 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+22:16:28.812 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play list *******
+22:19:42.023 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+22:19:42.739 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+22:19:42.739 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+22:19:42.742 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play list *******
+22:25:33.298 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+22:25:33.859 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play list *******
+22:25:51.048 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+22:25:51.817 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+22:25:51.817 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+22:25:51.819 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play list *******
+22:26:12.967 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+22:26:13.782 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+22:26:13.782 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+22:26:13.784 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play list *******
+22:26:14.057 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play done *******
+15:55:36.020 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+15:55:37.310 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+15:55:37.310 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+15:55:37.314 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play list *******
+15:55:37.710 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play done *******
+19:58:33.571 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+19:58:34.619 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+19:58:34.619 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+19:58:34.622 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play list *******
+19:58:34.936 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play done *******
+19:59:44.877 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+19:59:45.694 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+19:59:45.694 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+19:59:45.696 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play list *******
+19:59:45.993 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play done *******
+20:06:40.497 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+20:06:41.340 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+20:06:41.340 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+20:06:41.343 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play list *******
+20:06:41.669 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play done *******
+20:06:41.671 [main] INFO  api.test.SpotifyPlaylistTest - ***** Read playlist *******
+20:06:41.876 [main] INFO  api.test.SpotifyPlaylistTest - ***** Read playlist done*******
+20:07:30.788 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+20:07:31.584 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+20:07:31.584 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+20:07:31.586 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play list *******
+20:07:31.886 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play done *******
+20:07:31.887 [main] INFO  api.test.SpotifyPlaylistTest - ***** Read playlist *******
+20:07:32.213 [main] INFO  api.test.SpotifyPlaylistTest - ***** Read playlist done*******
+20:12:28.794 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+20:12:29.574 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+20:12:29.574 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+20:12:29.577 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play list *******
+20:12:29.948 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play done *******
+20:12:29.949 [main] INFO  api.test.SpotifyPlaylistTest - ***** Read playlist *******
+20:12:47.116 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+20:12:47.851 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+20:12:47.851 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+20:12:47.853 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play list *******
+20:12:48.147 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play done *******
+20:12:48.148 [main] INFO  api.test.SpotifyPlaylistTest - ***** Read playlist *******
+20:13:33.867 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+20:13:34.576 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+20:13:34.576 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+20:13:34.579 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play list *******
+20:13:34.944 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play done *******
+20:13:34.946 [main] INFO  api.test.SpotifyPlaylistTest - ***** Read playlist *******
+20:13:48.152 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+20:13:48.827 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+20:13:48.827 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+20:13:48.830 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play list *******
+20:13:49.165 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play done *******
+20:13:49.167 [main] INFO  api.test.SpotifyPlaylistTest - ***** Read playlist *******
+20:13:49.397 [main] INFO  api.test.SpotifyPlaylistTest - ***** Read playlist done*******
+20:47:10.403 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+20:47:11.216 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+20:47:11.216 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+20:47:11.218 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play list *******
+20:49:08.862 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+20:49:09.659 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+20:49:09.659 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+20:49:09.661 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play list *******
+20:51:02.920 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+20:51:03.688 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+20:51:03.688 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+20:51:03.690 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play list *******
+20:54:07.293 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+20:54:08.098 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+20:54:08.099 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+20:54:08.101 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play list *******
+20:54:08.398 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play done *******
+20:54:42.522 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+20:54:43.301 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+20:54:43.301 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+20:54:43.303 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play list *******
+20:54:43.586 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play done *******
+20:54:43.588 [main] INFO  api.test.SpotifyPlaylistTest - ***** Read playlist *******
+20:54:43.799 [main] INFO  api.test.SpotifyPlaylistTest - ***** Read playlist done*******
+21:03:59.751 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+21:04:00.837 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+21:04:00.837 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+21:04:00.841 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play list *******
+21:04:01.142 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play done *******
+21:04:01.144 [main] INFO  api.test.SpotifyPlaylistTest - ***** Update playlist *******
+21:09:19.913 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+21:09:20.676 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+21:09:20.676 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+21:09:20.679 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play list *******
+21:09:21.001 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play done *******
+21:09:21.003 [main] INFO  api.test.SpotifyPlaylistTest - ***** Update playlist *******
+21:11:16.415 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+21:11:17.199 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+21:11:17.199 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+21:11:17.201 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play list *******
+21:11:17.517 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play done *******
+21:11:17.518 [main] INFO  api.test.SpotifyPlaylistTest - ***** Update playlist *******
+21:13:04.891 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+21:13:05.695 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+21:13:05.695 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+21:13:05.698 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play list *******
+21:13:06.011 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play done *******
+21:13:06.012 [main] INFO  api.test.SpotifyPlaylistTest - ***** Update playlist *******
+21:14:33.867 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+21:14:34.620 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+21:14:34.620 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+21:14:34.623 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play list *******
+21:14:34.946 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play done *******
+21:14:34.948 [main] INFO  api.test.SpotifyPlaylistTest - ***** Update playlist *******
+21:15:50.771 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+21:15:51.494 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+21:15:51.494 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+21:15:51.497 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play list *******
+21:15:51.808 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play done *******
+21:15:51.810 [main] INFO  api.test.SpotifyPlaylistTest - ***** Read playlist *******
+21:15:52.057 [main] INFO  api.test.SpotifyPlaylistTest - ***** Read playlist done*******
+21:15:52.059 [main] INFO  api.test.SpotifyPlaylistTest - ***** Update playlist *******
+21:18:23.069 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+21:18:23.838 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+21:18:23.839 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+21:18:23.841 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play list *******
+21:18:24.138 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play done *******
+21:18:24.140 [main] INFO  api.test.SpotifyPlaylistTest - ***** Read playlist *******
+21:18:24.368 [main] INFO  api.test.SpotifyPlaylistTest - ***** Read playlist done*******
+21:18:24.370 [main] INFO  api.test.SpotifyPlaylistTest - ***** Update playlist *******
+21:20:53.663 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+21:20:54.444 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+21:20:54.444 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+21:20:54.447 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play list *******
+21:20:54.780 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play done *******
+21:20:54.781 [main] INFO  api.test.SpotifyPlaylistTest - ***** Read playlist *******
+21:20:54.987 [main] INFO  api.test.SpotifyPlaylistTest - ***** Read playlist done*******
+21:20:54.988 [main] INFO  api.test.SpotifyPlaylistTest - ***** Update playlist *******
+21:20:55.250 [main] INFO  api.test.SpotifyPlaylistTest - ***** Update playlist done*******
+21:25:08.850 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+21:25:09.628 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+21:25:09.629 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+21:25:09.631 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play list *******
+21:25:09.939 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play done *******
+21:25:09.940 [main] INFO  api.test.SpotifyPlaylistTest - ***** Read playlist *******
+21:25:10.166 [main] INFO  api.test.SpotifyPlaylistTest - ***** Read playlist done*******
+21:25:10.167 [main] INFO  api.test.SpotifyPlaylistTest - ***** Update playlist *******
+21:35:01.127 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+21:35:01.888 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+21:35:01.888 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+21:35:01.890 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play list *******
+21:35:02.176 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play done *******
+21:35:02.178 [main] INFO  api.test.SpotifyPlaylistTest - ***** Read playlist *******
+21:35:02.372 [main] INFO  api.test.SpotifyPlaylistTest - ***** Read playlist done*******
+21:35:02.373 [main] INFO  api.test.SpotifyPlaylistTest - ***** Update playlist *******
+21:35:02.608 [main] INFO  api.test.SpotifyPlaylistTest - ***** Update playlist done*******
+21:35:02.612 [main] INFO  api.test.SpotifyPlaylistTest - ***** Delete playlist *******
+21:36:14.003 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+21:36:14.748 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+21:36:14.748 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+21:36:14.750 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play list *******
+21:36:15.086 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play done *******
+21:36:15.087 [main] INFO  api.test.SpotifyPlaylistTest - ***** Read playlist *******
+21:36:15.409 [main] INFO  api.test.SpotifyPlaylistTest - ***** Read playlist done*******
+21:36:15.411 [main] INFO  api.test.SpotifyPlaylistTest - ***** Update playlist *******
+21:36:15.637 [main] INFO  api.test.SpotifyPlaylistTest - ***** Update playlist done*******
+21:36:15.640 [main] INFO  api.test.SpotifyPlaylistTest - ***** Delete playlist *******
+21:38:18.903 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+21:38:20.766 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+21:38:20.766 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+21:38:20.768 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play list *******
+21:38:21.079 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play done *******
+21:38:21.081 [main] INFO  api.test.SpotifyPlaylistTest - ***** Read playlist *******
+21:38:21.301 [main] INFO  api.test.SpotifyPlaylistTest - ***** Read playlist done*******
+21:38:21.303 [main] INFO  api.test.SpotifyPlaylistTest - ***** Update playlist *******
+21:38:21.597 [main] INFO  api.test.SpotifyPlaylistTest - ***** Update playlist done*******
+21:38:21.600 [main] INFO  api.test.SpotifyPlaylistTest - ***** Delete playlist *******
+21:38:21.812 [main] INFO  api.test.SpotifyPlaylistTest - ***** Delete playlist done*******
+21:43:51.008 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+21:43:51.830 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+21:43:51.830 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+21:43:51.832 [main] INFO  api.test.SpotifyCommonTest - ************ Getting Users Playlists *************
+21:43:52.109 [main] INFO  api.test.SpotifyCommonTest - ************ Getting Users Playlists completed *************
+21:43:52.110 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play list *******
+21:43:52.426 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play done *******
+21:43:52.428 [main] INFO  api.test.SpotifyPlaylistTest - ***** Read playlist *******
+21:43:52.621 [main] INFO  api.test.SpotifyPlaylistTest - ***** Read playlist done*******
+21:43:52.623 [main] INFO  api.test.SpotifyPlaylistTest - ***** Update playlist *******
+21:43:52.867 [main] INFO  api.test.SpotifyPlaylistTest - ***** Update playlist done*******
+21:43:52.869 [main] INFO  api.test.SpotifyPlaylistTest - ***** Delete playlist *******
+21:43:53.064 [main] INFO  api.test.SpotifyPlaylistTest - ***** Delete playlist done*******
+11:04:51.704 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+11:04:52.685 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+11:04:52.685 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+11:04:52.688 [main] INFO  api.test.SpotifyCommonTest - ************ Getting Users Playlists *************
+11:04:52.935 [main] INFO  api.test.SpotifyCommonTest - ************ Getting Users Playlists completed *************
+11:04:52.937 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play list *******
+11:04:53.269 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play done *******
+11:04:53.271 [main] INFO  api.test.SpotifyPlaylistTest - ***** Read playlist *******
+11:04:53.478 [main] INFO  api.test.SpotifyPlaylistTest - ***** Read playlist done*******
+11:04:53.480 [main] INFO  api.test.SpotifyPlaylistTest - ***** Update playlist *******
+11:04:53.803 [main] INFO  api.test.SpotifyPlaylistTest - ***** Update playlist done*******
+11:04:53.805 [main] INFO  api.test.SpotifyPlaylistTest - ***** Delete playlist *******
+11:04:54.003 [main] INFO  api.test.SpotifyPlaylistTest - ***** Delete playlist done*******
+11:44:25.253 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+11:44:26.084 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+11:44:26.084 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+11:46:35.272 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+11:46:36.035 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+11:46:36.035 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+11:46:36.038 [main] INFO  api.test.SpotifyPlaylistTest - ***** Add multiple playlist one by one *******
+11:48:01.324 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+11:48:02.110 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+11:48:02.110 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+11:48:02.112 [main] INFO  api.test.SpotifyPlaylistTest - ***** Add multiple playlist one by one *******
+11:48:18.881 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+11:48:19.668 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+11:48:19.668 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+11:48:19.670 [main] INFO  api.test.SpotifyPlaylistTest - ***** Add multiple playlist one by one *******
+11:50:20.736 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+11:50:21.557 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+11:50:21.557 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+11:50:21.559 [main] INFO  api.test.SpotifyPlaylistTest - ***** Add multiple playlist one by one *******
+11:51:27.757 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+11:51:28.560 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+11:51:28.560 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+11:51:28.562 [main] INFO  api.test.SpotifyPlaylistTest - ***** Add multiple playlist one by one *******
+11:51:29.493 [main] INFO  api.test.SpotifyPlaylistTest - ***** Add multiple playlist one by one done*******
+
+
+
+
+
+
+
+11:53:00.775 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+11:53:01.562 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+11:53:01.562 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+11:53:01.564 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play list *******
+11:53:01.841 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play done *******
+11:53:01.843 [main] INFO  api.test.SpotifyPlaylistTest - ***** Read playlist *******
+11:53:02.060 [main] INFO  api.test.SpotifyPlaylistTest - ***** Read playlist done*******
+11:53:02.061 [main] INFO  api.test.SpotifyPlaylistTest - ***** Update playlist *******
+11:53:02.322 [main] INFO  api.test.SpotifyPlaylistTest - ***** Update playlist done*******
+11:53:02.327 [main] INFO  api.test.SpotifyPlaylistTest - ***** Delete playlist *******
+11:53:02.536 [main] INFO  api.test.SpotifyPlaylistTest - ***** Delete playlist done*******
+11:53:18.386 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+11:53:19.167 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+11:53:19.167 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+11:53:19.169 [main] INFO  api.test.SpotifyPlaylistTest - ***** Add multiple playlist one by one *******
+11:53:19.997 [main] INFO  api.test.SpotifyPlaylistTest - ***** Add multiple playlist one by one done*******
+11:53:31.127 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+11:53:31.810 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+11:53:31.810 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+11:53:31.812 [main] INFO  api.test.SpotifyPlaylistTest - ***** Add multiple playlist one by one *******
+11:53:32.806 [main] INFO  api.test.SpotifyPlaylistTest - ***** Add multiple playlist one by one done*******
+12:07:18.920 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+12:07:19.973 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+12:07:19.973 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+12:07:19.976 [main] INFO  api.test.SpotifyPlaylistTest - ***** Add multiple playlist one by one *******
+12:07:20.885 [main] INFO  api.test.SpotifyPlaylistTest - ***** Add multiple playlist one by one done*******
+12:20:29.477 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+12:20:30.313 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+12:20:30.314 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+12:20:30.316 [main] INFO  api.test.SpotifyPlaylistTest - ***** Add multiple playlist one by one *******
+12:20:31.340 [main] INFO  api.test.SpotifyPlaylistTest - ***** Add multiple playlist one by one done*******
+12:20:31.342 [main] INFO  api.test.SpotifyPlaylistTest - ***** Delete Multiple playlist *******
+12:20:31.968 [main] INFO  api.test.SpotifyPlaylistTest - ***** Delete Multiple playlist done*******
+12:21:41.877 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+12:21:42.659 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+12:21:42.659 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+12:21:42.661 [main] INFO  api.test.SpotifyPlaylistTest - ***** Add multiple playlist one by one *******
+12:21:43.541 [main] INFO  api.test.SpotifyPlaylistTest - ***** Add multiple playlist one by one done*******
+12:21:43.542 [main] INFO  api.test.SpotifyPlaylistTest - ***** Delete Multiple playlist *******
+12:21:44.707 [main] INFO  api.test.SpotifyPlaylistTest - ***** Delete Multiple playlist done*******
+12:23:25.749 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+12:23:26.591 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+12:23:26.592 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+12:23:26.594 [main] INFO  api.test.SpotifyPlaylistTest - ***** Add multiple playlist one by one *******
+12:23:27.463 [main] INFO  api.test.SpotifyPlaylistTest - ***** Add multiple playlist one by one done*******
+12:23:27.464 [main] INFO  api.test.SpotifyPlaylistTest - ***** Delete Multiple playlist *******
+12:23:29.161 [main] INFO  api.test.SpotifyPlaylistTest - ***** Delete Multiple playlist done*******
+12:24:17.479 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+12:24:18.179 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+12:24:18.179 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+12:24:18.181 [main] INFO  api.test.SpotifyCommonTest - ************ Getting Users Playlists *************
+12:24:18.455 [main] INFO  api.test.SpotifyCommonTest - ************ Getting Users Playlists completed *************
+12:24:18.457 [main] INFO  api.test.SpotifyPlaylistTest - ***** Add multiple playlist one by one *******
+12:24:19.371 [main] INFO  api.test.SpotifyPlaylistTest - ***** Add multiple playlist one by one done*******
+12:24:19.373 [main] INFO  api.test.SpotifyPlaylistTest - ***** Delete Multiple playlist *******
+12:24:21.592 [main] INFO  api.test.SpotifyPlaylistTest - ***** Delete Multiple playlist done*******
+12:24:21.597 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play list *******
+12:24:21.849 [main] INFO  api.test.SpotifyPlaylistTest - ****** Create new play done *******
+12:24:21.851 [main] INFO  api.test.SpotifyPlaylistTest - ***** Read playlist *******
+12:24:22.040 [main] INFO  api.test.SpotifyPlaylistTest - ***** Read playlist done*******
+12:24:22.042 [main] INFO  api.test.SpotifyPlaylistTest - ***** Update playlist *******
+12:24:22.296 [main] INFO  api.test.SpotifyPlaylistTest - ***** Update playlist done*******
+12:24:22.301 [main] INFO  api.test.SpotifyPlaylistTest - ***** Delete playlist *******
+12:24:22.527 [main] INFO  api.test.SpotifyPlaylistTest - ***** Delete playlist done*******
+22:14:37.172 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+22:14:38.300 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+22:14:38.300 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+22:14:38.304 [main] INFO  api.test.SpotifyPlaylistTest - ***** Add multiple playlist for items one by one *******
+22:14:39.133 [main] INFO  api.test.SpotifyPlaylistTest - ***** Add multiple playlist for items one by one done *******
+22:15:01.454 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+22:15:02.420 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+22:15:02.420 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+22:15:02.422 [main] INFO  api.test.SpotifyPlaylistTest - ***** Add multiple playlist for items one by one *******
+22:15:03.694 [main] INFO  api.test.SpotifyPlaylistTest - ***** Add multiple playlist for items one by one done *******
+22:16:03.596 [main] INFO  api.test.SpotifyPlaylistTest - ***** Delete Multiple playlist *******
+22:16:28.801 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+22:16:29.527 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+22:16:29.527 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+22:16:29.529 [main] INFO  api.test.SpotifyPlaylistTest - ***** Delete Multiple playlist *******
+22:16:30.131 [main] INFO  api.test.SpotifyPlaylistTest - ***** Delete Multiple playlist done*******
+22:27:38.839 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+22:27:39.743 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+22:27:39.743 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+22:27:39.745 [main] INFO  api.test.SpotifyPlaylistItemsTest - ***** Add multiple playlist for items one by one *******
+22:27:40.521 [main] INFO  api.test.SpotifyPlaylistItemsTest - ***** Add multiple playlist for items one by one done *******
+22:27:40.523 [main] INFO  api.test.SpotifyPlaylistItemsTest - ***** Delete Multiple playlist *******
+22:27:41.172 [main] INFO  api.test.SpotifyPlaylistItemsTest - ***** Delete Multiple playlist done*******
+22:28:06.401 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+22:28:07.233 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+22:28:07.233 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+22:28:07.236 [main] INFO  api.test.SpotifyPlaylistItemsTest - ***** Add multiple playlist for items one by one *******
+22:28:07.993 [main] INFO  api.test.SpotifyPlaylistItemsTest - ***** Add multiple playlist for items one by one done *******
+22:40:03.004 [main] INFO  api.test.SpotifyPlaylistItemsTest - ***** Search Items *******
+22:41:40.970 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+22:41:41.766 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+22:41:41.766 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+22:41:41.768 [main] INFO  api.test.SpotifyPlaylistItemsTest - ***** Search Items *******
+22:41:42.460 [main] INFO  api.test.SpotifyPlaylistItemsTest - ***** Search Items  *******
+07:53:30.688 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+07:53:31.720 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+07:53:31.720 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+07:53:31.724 [main] INFO  api.test.SpotifyPlaylistItemsTest - ***** Search Items *******
+07:53:32.473 [main] INFO  api.test.SpotifyPlaylistItemsTest - ***** Search Items  *******
+07:53:49.607 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+07:53:50.346 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+07:53:50.346 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+07:53:50.349 [main] INFO  api.test.SpotifyPlaylistItemsTest - ***** Search Items *******
+07:53:51.047 [main] INFO  api.test.SpotifyPlaylistItemsTest - ***** Search Items  *******
+07:56:56.736 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+07:56:57.855 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+07:56:57.855 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+07:56:57.857 [main] INFO  api.test.SpotifyPlaylistItemsTest - ***** Search Items *******
+07:56:58.612 [main] INFO  api.test.SpotifyPlaylistItemsTest - ***** Search Items  *******
+08:25:54.593 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+08:25:55.340 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+08:25:55.340 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+08:25:55.342 [main] INFO  api.test.SpotifyPlaylistItemsTest - ***** Search Items *******
+08:25:56.114 [main] INFO  api.test.SpotifyPlaylistItemsTest - ***** Search Items  *******
+08:27:35.546 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+08:27:36.268 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+08:27:36.268 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+08:27:36.270 [main] INFO  api.test.SpotifyPlaylistItemsTest - ***** Search Items *******
+08:27:37.019 [main] INFO  api.test.SpotifyPlaylistItemsTest - ***** Search Items  *******
+08:30:28.164 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+08:30:28.925 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+08:30:28.926 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+08:30:28.928 [main] INFO  api.test.SpotifyPlaylistItemsTest - ***** Search Items *******
+08:34:43.579 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+08:34:44.347 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+08:34:44.348 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+08:34:44.350 [main] INFO  api.test.SpotifyPlaylistItemsTest - ***** Search Items *******
+08:35:36.318 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+08:35:37.048 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+08:35:37.049 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+08:35:37.051 [main] INFO  api.test.SpotifyPlaylistItemsTest - ***** Search Items *******
+08:36:14.329 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+08:36:15.031 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+08:36:15.031 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+08:36:15.033 [main] INFO  api.test.SpotifyPlaylistItemsTest - ***** Search Items *******
+08:36:15.786 [main] INFO  api.test.SpotifyPlaylistItemsTest - ***** Search Items  *******
+08:37:38.382 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserId *************
+08:37:39.092 [main] INFO  api.test.SpotifyCommonTest - Current User_ID :31tezlkurgq3i5pzptum4mnsy45m
+08:37:39.092 [main] INFO  api.test.SpotifyCommonTest - ************ Getting CurrentUserID completed *************
+08:37:39.094 [main] INFO  api.test.SpotifyPlaylistItemsTest - ***** Search Items *******

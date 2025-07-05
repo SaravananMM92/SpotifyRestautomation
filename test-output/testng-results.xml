@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="17" passed="14" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-05T11:48:44 IST" name="Suite" finished-at="2025-07-05T11:48:54 IST" duration-ms="9601">
+    <groups>
+    </groups>
+    <test started-at="2025-07-05T11:48:44 IST" name="Test" finished-at="2025-07-05T11:48:54 IST" duration-ms="9601">
+      <class name="api.test.SpotifyPlaylistTest">
+        <test-method signature="CreateMultiplePlaylists()[pri:0, instance:api.test.SpotifyPlaylistTest@72758afa]" started-at="2025-07-05T11:48:45 IST" name="CreateMultiplePlaylists" finished-at="2025-07-05T11:48:46 IST" depends-on-methods="api.test.SpotifyCommonTest.getCurrentUserId" duration-ms="812" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateMultiplePlaylists -->
+        <test-method signature="DeleteMultiplePlaylists()[pri:0, instance:api.test.SpotifyPlaylistTest@72758afa]" started-at="2025-07-05T11:48:46 IST" name="DeleteMultiplePlaylists" finished-at="2025-07-05T11:48:47 IST" depends-on-methods="api.test.SpotifyPlaylistTest.CreateMultiplePlaylists" duration-ms="586" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteMultiplePlaylists -->
+        <test-method signature="AddPlayListTest()[pri:1, instance:api.test.SpotifyPlaylistTest@72758afa]" started-at="2025-07-05T11:48:47 IST" name="AddPlayListTest" finished-at="2025-07-05T11:48:47 IST" depends-on-methods="api.test.SpotifyCommonTest.getCurrentUserId" duration-ms="271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddPlayListTest -->
+        <test-method signature="GetPlayListTest()[pri:2, instance:api.test.SpotifyPlaylistTest@72758afa]" started-at="2025-07-05T11:48:47 IST" name="GetPlayListTest" finished-at="2025-07-05T11:48:47 IST" depends-on-methods="api.test.SpotifyPlaylistTest.AddPlayListTest" duration-ms="196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetPlayListTest -->
+        <test-method signature="UpdatePlayListTest()[pri:3, instance:api.test.SpotifyPlaylistTest@72758afa]" started-at="2025-07-05T11:48:47 IST" name="UpdatePlayListTest" finished-at="2025-07-05T11:48:47 IST" depends-on-methods="api.test.SpotifyPlaylistTest.GetPlayListTest" duration-ms="261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdatePlayListTest -->
+        <test-method signature="DeletePlaylistTest()[pri:4, instance:api.test.SpotifyPlaylistTest@72758afa]" started-at="2025-07-05T11:48:47 IST" name="DeletePlaylistTest" finished-at="2025-07-05T11:48:48 IST" depends-on-methods="api.test.SpotifyPlaylistTest.UpdatePlayListTest" duration-ms="204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeletePlaylistTest -->
+      </class> <!-- api.test.SpotifyPlaylistTest -->
+      <class name="api.test.SpotifyPlaylistItemsTest">
+        <test-method signature="AddPlaylistforItems()[pri:0, instance:api.test.SpotifyPlaylistItemsTest@fb9c7aa]" started-at="2025-07-05T11:48:48 IST" name="AddPlaylistforItems" finished-at="2025-07-05T11:48:50 IST" depends-on-methods="api.test.SpotifyCommonTest.getCurrentUserId" duration-ms="2049" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddPlaylistforItems -->
+        <test-method signature="SearchItems()[pri:0, instance:api.test.SpotifyPlaylistItemsTest@fb9c7aa]" started-at="2025-07-05T11:48:50 IST" name="SearchItems" finished-at="2025-07-05T11:48:50 IST" depends-on-methods="api.test.SpotifyPlaylistItemsTest.AddPlaylistforItems" duration-ms="781" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchItems -->
+        <test-method signature="SearchItems1()[pri:0, instance:api.test.SpotifyPlaylistItemsTest@fb9c7aa]" started-at="2025-07-05T11:48:50 IST" name="SearchItems1" finished-at="2025-07-05T11:48:51 IST" depends-on-methods="api.test.SpotifyCommonTest.getCurrentUserId" duration-ms="968" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchItems1 -->
+        <test-method signature="AddlayListItemTest()[pri:1, instance:api.test.SpotifyPlaylistItemsTest@fb9c7aa]" started-at="2025-07-05T11:48:51 IST" name="AddlayListItemTest" finished-at="2025-07-05T11:48:52 IST" depends-on-methods="api.test.SpotifyPlaylistItemsTest.SearchItems" duration-ms="714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddlayListItemTest -->
+        <test-method signature="UpdatePlayListItemTest()[pri:2, instance:api.test.SpotifyPlaylistItemsTest@fb9c7aa]" started-at="2025-07-05T11:48:52 IST" name="UpdatePlayListItemTest" finished-at="2025-07-05T11:48:53 IST" depends-on-methods="api.test.SpotifyPlaylistItemsTest.SearchItems1" duration-ms="751" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdatePlayListItemTest -->
+        <test-method signature="DeleteMultiplePlaylists()[pri:999, instance:api.test.SpotifyPlaylistItemsTest@fb9c7aa]" started-at="2025-07-05T11:48:53 IST" name="DeleteMultiplePlaylists" finished-at="2025-07-05T11:48:54 IST" depends-on-methods="api.test.SpotifyCommonTest.getCurrentUserId" duration-ms="637" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteMultiplePlaylists -->
+      </class> <!-- api.test.SpotifyPlaylistItemsTest -->
+      <class name="api.test.SpotifyCommonTest">
+        <test-method is-config="true" signature="clearOutputFiles()[pri:0, instance:api.test.SpotifyCommonTest@26b3fd41]" started-at="2025-07-05T11:48:44 IST" name="clearOutputFiles" finished-at="2025-07-05T11:48:44 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearOutputFiles -->
+        <test-method signature="getCurrentUserId()[pri:3, instance:api.test.SpotifyCommonTest@26b3fd41]" started-at="2025-07-05T11:48:44 IST" name="getCurrentUserId" finished-at="2025-07-05T11:48:45 IST" duration-ms="1100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCurrentUserId -->
+        <test-method signature="getUsersPlaylist()[pri:4, instance:api.test.SpotifyCommonTest@26b3fd41]" started-at="2025-07-05T11:48:45 IST" name="getUsersPlaylist" finished-at="2025-07-05T11:48:45 IST" depends-on-methods="api.test.SpotifyCommonTest.getCurrentUserId" duration-ms="239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUsersPlaylist -->
+      </class> <!-- api.test.SpotifyCommonTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

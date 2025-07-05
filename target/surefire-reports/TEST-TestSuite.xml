@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="8.529" tests="14" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="http.proxyHost" value="127.0.0.1"/>
+    <property name="java.specification.version" value="23"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/Users/saravana-2405/eclipse-workspace/SpotifyRestAutomation/SpotifyRestautomation/target/test-classes:/Users/saravana-2405/eclipse-workspace/SpotifyRestAutomation/SpotifyRestautomation/target/classes:/Users/saravana-2405/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:/Users/saravana-2405/.m2/repository/io/rest-assured/rest-assured/5.1.1/rest-assured-5.1.1.jar:/Users/saravana-2405/.m2/repository/org/apache/groovy/groovy/4.0.1/groovy-4.0.1.jar:/Users/saravana-2405/.m2/repository/org/apache/groovy/groovy-xml/4.0.1/groovy-xml-4.0.1.jar:/Users/saravana-2405/.m2/repository/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar:/Users/saravana-2405/.m2/repository/org/apache/httpcomponents/httpcore/4.4.13/httpcore-4.4.13.jar:/Users/saravana-2405/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/saravana-2405/.m2/repository/org/apache/httpcomponents/httpmime/4.5.13/httpmime-4.5.13.jar:/Users/saravana-2405/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar:/Users/saravana-2405/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar:/Users/saravana-2405/.m2/repository/io/rest-assured/xml-path/5.1.1/xml-path-5.1.1.jar:/Users/saravana-2405/.m2/repository/io/rest-assured/json-path/5.1.1/json-path-5.1.1.jar:/Users/saravana-2405/.m2/repository/org/apache/groovy/groovy-json/4.0.1/groovy-json-4.0.1.jar:/Users/saravana-2405/.m2/repository/io/rest-assured/rest-assured-common/5.1.1/rest-assured-common-5.1.1.jar:/Users/saravana-2405/.m2/repository/org/json/json/20220320/json-20220320.jar:/Users/saravana-2405/.m2/repository/org/testng/testng/7.6.1/testng-7.6.1.jar:/Users/saravana-2405/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/Users/saravana-2405/.m2/repository/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar:/Users/saravana-2405/.m2/repository/com/beust/jcommander/1.82/jcommander-1.82.jar:/Users/saravana-2405/.m2/repository/org/webjars/jquery/3.6.0/jquery-3.6.0.jar:/Users/saravana-2405/.m2/repository/com/github/scribejava/scribejava-apis/8.3.1/scribejava-apis-8.3.1.jar:/Users/saravana-2405/.m2/repository/com/github/scribejava/scribejava-core/8.3.1/scribejava-core-8.3.1.jar:/Users/saravana-2405/.m2/repository/com/github/scribejava/scribejava-java8/8.3.1/scribejava-java8-8.3.1.jar:/Users/saravana-2405/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.12.3/jackson-databind-2.12.3.jar:/Users/saravana-2405/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.12.3/jackson-annotations-2.12.3.jar:/Users/saravana-2405/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.12.3/jackson-core-2.12.3.jar:/Users/saravana-2405/.m2/repository/io/rest-assured/json-schema-validator/5.1.1/json-schema-validator-5.1.1.jar:/Users/saravana-2405/.m2/repository/com/github/java-json-tools/json-schema-validator/2.2.14/json-schema-validator-2.2.14.jar:/Users/saravana-2405/.m2/repository/com/google/guava/guava/28.2-android/guava-28.2-android.jar:/Users/saravana-2405/.m2/repository/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar:/Users/saravana-2405/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/Users/saravana-2405/.m2/repository/org/checkerframework/checker-compat-qual/2.5.5/checker-compat-qual-2.5.5.jar:/Users/saravana-2405/.m2/repository/com/google/errorprone/error_prone_annotations/2.3.4/error_prone_annotations-2.3.4.jar:/Users/saravana-2405/.m2/repository/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar:/Users/saravana-2405/.m2/repository/com/github/java-json-tools/jackson-coreutils-equivalence/1.0/jackson-coreutils-equivalence-1.0.jar:/Users/saravana-2405/.m2/repository/com/github/java-json-tools/jackson-coreutils/2.0/jackson-coreutils-2.0.jar:/Users/saravana-2405/.m2/repository/com/github/java-json-tools/msg-simple/1.2/msg-simple-1.2.jar:/Users/saravana-2405/.m2/repository/com/github/java-json-tools/btf/1.3/btf-1.3.jar:/Users/saravana-2405/.m2/repository/com/github/java-json-tools/json-schema-core/1.2.14/json-schema-core-1.2.14.jar:/Users/saravana-2405/.m2/repository/com/github/java-json-tools/uri-template/0.10/uri-template-0.10.jar:/Users/saravana-2405/.m2/repository/org/mozilla/rhino/1.7.7.2/rhino-1.7.7.2.jar:/Users/saravana-2405/.m2/repository/com/sun/mail/mailapi/1.6.2/mailapi-1.6.2.jar:/Users/saravana-2405/.m2/repository/joda-time/joda-time/2.10.5/joda-time-2.10.5.jar:/Users/saravana-2405/.m2/repository/com/googlecode/libphonenumber/libphonenumber/8.11.1/libphonenumber-8.11.1.jar:/Users/saravana-2405/.m2/repository/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar:/Users/saravana-2405/.m2/repository/com/github/javafaker/javafaker/1.0.2/javafaker-1.0.2.jar:/Users/saravana-2405/.m2/repository/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar:/Users/saravana-2405/.m2/repository/org/yaml/snakeyaml/1.23/snakeyaml-1.23-android.jar:/Users/saravana-2405/.m2/repository/com/github/mifmif/generex/1.0.2/generex-1.0.2.jar:/Users/saravana-2405/.m2/repository/dk/brics/automaton/automaton/1.11-8/automaton-1.11-8.jar:/Users/saravana-2405/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar:/Users/saravana-2405/.m2/repository/io/reactivex/rxjava3/rxjava/3.0.4/rxjava-3.0.4.jar:/Users/saravana-2405/.m2/repository/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar:/Users/saravana-2405/.m2/repository/org/freemarker/freemarker/2.3.30/freemarker-2.3.30.jar:/Users/saravana-2405/.m2/repository/org/projectlombok/lombok/1.18.12/lombok-1.18.12.jar:/Users/saravana-2405/.m2/repository/com/google/code/gson/gson/2.8.6/gson-2.8.6.jar:/Users/saravana-2405/.m2/repository/org/apache/poi/poi/5.2.2/poi-5.2.2.jar:/Users/saravana-2405/.m2/repository/commons-codec/commons-codec/1.15/commons-codec-1.15.jar:/Users/saravana-2405/.m2/repository/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.jar:/Users/saravana-2405/.m2/repository/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1.jar:/Users/saravana-2405/.m2/repository/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar:/Users/saravana-2405/.m2/repository/com/zaxxer/SparseBitSet/1.2/SparseBitSet-1.2.jar:/Users/saravana-2405/.m2/repository/org/apache/poi/poi-ooxml/5.2.2/poi-ooxml-5.2.2.jar:/Users/saravana-2405/.m2/repository/org/apache/poi/poi-ooxml-lite/5.2.2/poi-ooxml-lite-5.2.2.jar:/Users/saravana-2405/.m2/repository/org/apache/xmlbeans/xmlbeans/5.0.3/xmlbeans-5.0.3.jar:/Users/saravana-2405/.m2/repository/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar:/Users/saravana-2405/.m2/repository/com/github/virtuald/curvesapi/1.07/curvesapi-1.07.jar:/Users/saravana-2405/.m2/repository/org/apache/logging/log4j/log4j-api/2.18.0/log4j-api-2.18.0.jar:/Users/saravana-2405/.m2/repository/org/apache/logging/log4j/log4j-core/2.18.0/log4j-core-2.18.0.jar:/Users/saravana-2405/.m2/repository/org/seleniumhq/selenium/selenium-java/4.19.1/selenium-java-4.19.1.jar:/Users/saravana-2405/.m2/repository/org/seleniumhq/selenium/selenium-api/4.19.1/selenium-api-4.19.1.jar:/Users/saravana-2405/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.19.1/selenium-chrome-driver-4.19.1.jar:/Users/saravana-2405/.m2/repository/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1.jar:/Users/saravana-2405/.m2/repository/org/seleniumhq/selenium/selenium-chromium-driver/4.19.1/selenium-chromium-driver-4.19.1.jar:/Users/saravana-2405/.m2/repository/org/seleniumhq/selenium/selenium-json/4.19.1/selenium-json-4.19.1.jar:/Users/saravana-2405/.m2/repository/org/seleniumhq/selenium/selenium-manager/4.19.1/selenium-manager-4.19.1.jar:/Users/saravana-2405/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v121/4.19.1/selenium-devtools-v121-4.19.1.jar:/Users/saravana-2405/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v122/4.19.1/selenium-devtools-v122-4.19.1.jar:/Users/saravana-2405/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v123/4.19.1/selenium-devtools-v123-4.19.1.jar:/Users/saravana-2405/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v85/4.19.1/selenium-devtools-v85-4.19.1.jar:/Users/saravana-2405/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/4.19.1/selenium-edge-driver-4.19.1.jar:/Users/saravana-2405/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/4.19.1/selenium-firefox-driver-4.19.1.jar:/Users/saravana-2405/.m2/repository/org/seleniumhq/selenium/selenium-http/4.19.1/selenium-http-4.19.1.jar:/Users/saravana-2405/.m2/repository/dev/failsafe/failsafe/3.3.2/failsafe-3.3.2.jar:/Users/saravana-2405/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/4.19.1/selenium-ie-driver-4.19.1.jar:/Users/saravana-2405/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/4.19.1/selenium-remote-driver-4.19.1.jar:/Users/saravana-2405/.m2/repository/io/opentelemetry/semconv/opentelemetry-semconv/1.23.1-alpha/opentelemetry-semconv-1.23.1-alpha.jar:/Users/saravana-2405/.m2/repository/io/opentelemetry/opentelemetry-api/1.36.0/opentelemetry-api-1.36.0.jar:/Users/saravana-2405/.m2/repository/io/opentelemetry/opentelemetry-context/1.36.0/opentelemetry-context-1.36.0.jar:/Users/saravana-2405/.m2/repository/io/opentelemetry/opentelemetry-exporter-logging/1.36.0/opentelemetry-exporter-logging-1.36.0.jar:/Users/saravana-2405/.m2/repository/io/opentelemetry/opentelemetry-sdk-common/1.36.0/opentelemetry-sdk-common-1.36.0.jar:/Users/saravana-2405/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi/1.36.0/opentelemetry-sdk-extension-autoconfigure-spi-1.36.0.jar:/Users/saravana-2405/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure/1.36.0/opentelemetry-sdk-extension-autoconfigure-1.36.0.jar:/Users/saravana-2405/.m2/repository/io/opentelemetry/opentelemetry-api-events/1.36.0-alpha/opentelemetry-api-events-1.36.0-alpha.jar:/Users/saravana-2405/.m2/repository/io/opentelemetry/opentelemetry-sdk-trace/1.36.0/opentelemetry-sdk-trace-1.36.0.jar:/Users/saravana-2405/.m2/repository/io/opentelemetry/opentelemetry-extension-incubator/1.36.0-alpha/opentelemetry-extension-incubator-1.36.0-alpha.jar:/Users/saravana-2405/.m2/repository/io/opentelemetry/opentelemetry-sdk/1.36.0/opentelemetry-sdk-1.36.0.jar:/Users/saravana-2405/.m2/repository/io/opentelemetry/opentelemetry-sdk-metrics/1.36.0/opentelemetry-sdk-metrics-1.36.0.jar:/Users/saravana-2405/.m2/repository/io/opentelemetry/opentelemetry-sdk-logs/1.36.0/opentelemetry-sdk-logs-1.36.0.jar:/Users/saravana-2405/.m2/repository/net/bytebuddy/byte-buddy/1.14.12/byte-buddy-1.14.12.jar:/Users/saravana-2405/.m2/repository/org/seleniumhq/selenium/selenium-os/4.19.1/selenium-os-4.19.1.jar:/Users/saravana-2405/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/Users/saravana-2405/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/4.19.1/selenium-safari-driver-4.19.1.jar:/Users/saravana-2405/.m2/repository/org/seleniumhq/selenium/selenium-support/4.19.1/selenium-support-4.19.1.jar:"/>
+    <property name="https.proxyPort" value="3128"/>
+    <property name="java.vm.vendor" value="Homebrew"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.vendor.url" value="https://github.com/Homebrew/homebrew-core/issues"/>
+    <property name="user.timezone" value="Asia/Kolkata"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="java.vm.specification.version" value="23"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.boot.library.path" value="/opt/homebrew/Cellar/openjdk/23.0.2/libexec/openjdk.jdk/Contents/Home/lib"/>
+    <property name="sun.java.command" value="/Users/saravana-2405/eclipse-workspace/SpotifyRestAutomation/SpotifyRestautomation/target/surefire/surefirebooter-20250705120052485_3.jar /Users/saravana-2405/eclipse-workspace/SpotifyRestAutomation/SpotifyRestautomation/target/surefire 2025-07-05T12-00-52_459-jvmRun1 surefire-20250705120052485_1tmp surefire_0-20250705120052485_2tmp"/>
+    <property name="http.nonProxyHosts" value="127.0.0.1|127.0.0.0/8|*.127.0.0.0/8|::1|zohomeeting.com|*.zohomeeting.com|zohoassist.com|*.zohoassist.com|avcliq.zoho.com|*.avcliq.zoho.com|zohomeeting.com|*.zohomeeting.com|zohoassist.com|*.zohoassist.com|zohopublic.com|*.zohopublic.com|zohopublic.in|*.zohopublic.in|zohopublic.eu|*.zohopublic.eu|zohopublic.com.au|*.zohopublic.com.au|zohopublic.jp|*.zohopublic.jp|zohopublic.ca|*.zohopublic.ca|zohopublic.sa|*.zohopublic.sa|us4-wss-accl.zoho.com|*.us4-wss-accl.zoho.com|us4-wss.zoho.com|*.us4-wss.zoho.com|us3-wss-accl.zoho.com|*.us3-wss-accl.zoho.com|us3-wss.zoho.com|*.us3-wss.zoho.com|in2-wss.zoho.in|*.in2-wss.zoho.in|in1-wss.zoho.in|*.in1-wss.zoho.in|eu1-wss.zoho.eu|*.eu1-wss.zoho.eu|eu2-wss.zoho.eu|*.eu2-wss.zoho.eu|cn2-wss.zoho.com.cn|*.cn2-wss.zoho.com.cn|cn3-wss.zoho.com.cn|*.cn3-wss.zoho.com.cn|au1-wss.zoho.com.au|*.au1-wss.zoho.com.au|au2-wss.zoho.com.au|*.au2-wss.zoho.com.au|jp1-wss.zoho.jp|*.jp1-wss.zoho.jp|jp2-wss.zoho.jp|*.jp2-wss.zoho.jp|ca1-wss.zohocloud.ca|*.ca1-wss.zohocloud.ca|ca2-wss.zohocloud.ca|*.ca2-wss.zohocloud.ca|sa1-wss.zoho.sa|*.sa1-wss.zoho.sa|sa2-wss.zoho.sa|*.sa2-wss.zoho.sa|in1-wss.arattai.in|*.in1-wss.arattai.in|in2-wss.arattai.in|*.in2-wss.arattai.in|preus4-wss.zoho.com|*.preus4-wss.zoho.com|preus3-wss.zoho.com|*.preus3-wss.zoho.com|us4-wss-pop.zoho.com|*.us4-wss-pop.zoho.com|us3-wss-pop.zoho.com|*.us3-wss-pop.zoho.com|in2-wss-pop.zoho.in|*.in2-wss-pop.zoho.in|in1-wss-pop.zoho.in|*.in1-wss-pop.zoho.in|eu1-wss-pop.zoho.eu|*.eu1-wss-pop.zoho.eu|eu2-wss-pop.zoho.eu|*.eu2-wss-pop.zoho.eu|cn2-wss-pop.zoho.com.cn|*.cn2-wss-pop.zoho.com.cn|cn3-wss-pop.zoho.com.cn|*.cn3-wss-pop.zoho.com.cn|au1-wss-pop.zoho.com.au|*.au1-wss-pop.zoho.com.au|au2-wss-pop.zoho.com.au|*.au2-wss-pop.zoho.com.au|jp1-wss-pop.zoho.jp|*.jp1-wss-pop.zoho.jp|jp2-wss-pop.zoho.jp|*.jp2-wss-pop.zoho.jp|ca1-wss-pop.zohocloud.ca|*.ca1-wss-pop.zohocloud.ca|ca2-wss-pop.zohocloud.ca|*.ca2-wss-pop.zohocloud.ca|sa1-wss-pop.zoho.sa|*.sa1-wss-pop.zoho.sa|sa2-wss-pop.zoho.sa|*.sa2-wss-pop.zoho.sa|in2-prewss-pop.zoho.in|*.in2-prewss-pop.zoho.in|in1-prewss-pop.zoho.in|*.in1-prewss-pop.zoho.in|us4-wss-vod.zoho.com|*.us4-wss-vod.zoho.com|us3-wss-vod.zoho.com|*.us3-wss-vod.zoho.com|in2-wss-vod.zoho.in|*.in2-wss-vod.zoho.in|in1-wss-vod.zoho.in|*.in1-wss-vod.zoho.in|eu1-wss-vod.zoho.eu|*.eu1-wss-vod.zoho.eu|eu2-wss-vod.zoho.eu|*.eu2-wss-vod.zoho.eu|cn2-wss-vod.zoho.com.cn|*.cn2-wss-vod.zoho.com.cn|cn3-wss-vod.zoho.com.cn|*.cn3-wss-vod.zoho.com.cn|au1-wss-vod.zoho.com.au|*.au1-wss-vod.zoho.com.au|au2-wss-vod.zoho.com.au|*.au2-wss-vod.zoho.com.au|jp1-wss-vod.zoho.jp|*.jp1-wss-vod.zoho.jp|jp2-wss-vod.zoho.jp|*.jp2-wss-vod.zoho.jp|ca1-wss-vod.zohocloud.ca|*.ca1-wss-vod.zohocloud.ca|ca2-wss-vod.zohocloud.ca|*.ca2-wss-vod.zohocloud.ca|sa1-wss-vod.zoho.sa|*.sa1-wss-vod.zoho.sa|sa2-wss-vod.zoho.sa|*.sa2-wss-vod.zoho.sa|in1-wss-vod.arattai.in|*.in1-wss-vod.arattai.in|in2-wss-vod.arattai.in|*.in2-wss-vod.arattai.in|us4-prewss-vod.zoho.com|*.us4-prewss-vod.zoho.com|us3-prewss-vod.zoho.com|*.us3-prewss-vod.zoho.com|zohoconference.com|*.zohoconference.com"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="/Users/saravana-2405/eclipse-workspace/SpotifyRestAutomation/SpotifyRestautomation/target/test-classes:/Users/saravana-2405/eclipse-workspace/SpotifyRestAutomation/SpotifyRestautomation/target/classes:/Users/saravana-2405/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:/Users/saravana-2405/.m2/repository/io/rest-assured/rest-assured/5.1.1/rest-assured-5.1.1.jar:/Users/saravana-2405/.m2/repository/org/apache/groovy/groovy/4.0.1/groovy-4.0.1.jar:/Users/saravana-2405/.m2/repository/org/apache/groovy/groovy-xml/4.0.1/groovy-xml-4.0.1.jar:/Users/saravana-2405/.m2/repository/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar:/Users/saravana-2405/.m2/repository/org/apache/httpcomponents/httpcore/4.4.13/httpcore-4.4.13.jar:/Users/saravana-2405/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/saravana-2405/.m2/repository/org/apache/httpcomponents/httpmime/4.5.13/httpmime-4.5.13.jar:/Users/saravana-2405/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar:/Users/saravana-2405/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar:/Users/saravana-2405/.m2/repository/io/rest-assured/xml-path/5.1.1/xml-path-5.1.1.jar:/Users/saravana-2405/.m2/repository/io/rest-assured/json-path/5.1.1/json-path-5.1.1.jar:/Users/saravana-2405/.m2/repository/org/apache/groovy/groovy-json/4.0.1/groovy-json-4.0.1.jar:/Users/saravana-2405/.m2/repository/io/rest-assured/rest-assured-common/5.1.1/rest-assured-common-5.1.1.jar:/Users/saravana-2405/.m2/repository/org/json/json/20220320/json-20220320.jar:/Users/saravana-2405/.m2/repository/org/testng/testng/7.6.1/testng-7.6.1.jar:/Users/saravana-2405/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/Users/saravana-2405/.m2/repository/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar:/Users/saravana-2405/.m2/repository/com/beust/jcommander/1.82/jcommander-1.82.jar:/Users/saravana-2405/.m2/repository/org/webjars/jquery/3.6.0/jquery-3.6.0.jar:/Users/saravana-2405/.m2/repository/com/github/scribejava/scribejava-apis/8.3.1/scribejava-apis-8.3.1.jar:/Users/saravana-2405/.m2/repository/com/github/scribejava/scribejava-core/8.3.1/scribejava-core-8.3.1.jar:/Users/saravana-2405/.m2/repository/com/github/scribejava/scribejava-java8/8.3.1/scribejava-java8-8.3.1.jar:/Users/saravana-2405/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.12.3/jackson-databind-2.12.3.jar:/Users/saravana-2405/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.12.3/jackson-annotations-2.12.3.jar:/Users/saravana-2405/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.12.3/jackson-core-2.12.3.jar:/Users/saravana-2405/.m2/repository/io/rest-assured/json-schema-validator/5.1.1/json-schema-validator-5.1.1.jar:/Users/saravana-2405/.m2/repository/com/github/java-json-tools/json-schema-validator/2.2.14/json-schema-validator-2.2.14.jar:/Users/saravana-2405/.m2/repository/com/google/guava/guava/28.2-android/guava-28.2-android.jar:/Users/saravana-2405/.m2/repository/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar:/Users/saravana-2405/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/Users/saravana-2405/.m2/repository/org/checkerframework/checker-compat-qual/2.5.5/checker-compat-qual-2.5.5.jar:/Users/saravana-2405/.m2/repository/com/google/errorprone/error_prone_annotations/2.3.4/error_prone_annotations-2.3.4.jar:/Users/saravana-2405/.m2/repository/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar:/Users/saravana-2405/.m2/repository/com/github/java-json-tools/jackson-coreutils-equivalence/1.0/jackson-coreutils-equivalence-1.0.jar:/Users/saravana-2405/.m2/repository/com/github/java-json-tools/jackson-coreutils/2.0/jackson-coreutils-2.0.jar:/Users/saravana-2405/.m2/repository/com/github/java-json-tools/msg-simple/1.2/msg-simple-1.2.jar:/Users/saravana-2405/.m2/repository/com/github/java-json-tools/btf/1.3/btf-1.3.jar:/Users/saravana-2405/.m2/repository/com/github/java-json-tools/json-schema-core/1.2.14/json-schema-core-1.2.14.jar:/Users/saravana-2405/.m2/repository/com/github/java-json-tools/uri-template/0.10/uri-template-0.10.jar:/Users/saravana-2405/.m2/repository/org/mozilla/rhino/1.7.7.2/rhino-1.7.7.2.jar:/Users/saravana-2405/.m2/repository/com/sun/mail/mailapi/1.6.2/mailapi-1.6.2.jar:/Users/saravana-2405/.m2/repository/joda-time/joda-time/2.10.5/joda-time-2.10.5.jar:/Users/saravana-2405/.m2/repository/com/googlecode/libphonenumber/libphonenumber/8.11.1/libphonenumber-8.11.1.jar:/Users/saravana-2405/.m2/repository/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar:/Users/saravana-2405/.m2/repository/com/github/javafaker/javafaker/1.0.2/javafaker-1.0.2.jar:/Users/saravana-2405/.m2/repository/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar:/Users/saravana-2405/.m2/repository/org/yaml/snakeyaml/1.23/snakeyaml-1.23-android.jar:/Users/saravana-2405/.m2/repository/com/github/mifmif/generex/1.0.2/generex-1.0.2.jar:/Users/saravana-2405/.m2/repository/dk/brics/automaton/automaton/1.11-8/automaton-1.11-8.jar:/Users/saravana-2405/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar:/Users/saravana-2405/.m2/repository/io/reactivex/rxjava3/rxjava/3.0.4/rxjava-3.0.4.jar:/Users/saravana-2405/.m2/repository/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar:/Users/saravana-2405/.m2/repository/org/freemarker/freemarker/2.3.30/freemarker-2.3.30.jar:/Users/saravana-2405/.m2/repository/org/projectlombok/lombok/1.18.12/lombok-1.18.12.jar:/Users/saravana-2405/.m2/repository/com/google/code/gson/gson/2.8.6/gson-2.8.6.jar:/Users/saravana-2405/.m2/repository/org/apache/poi/poi/5.2.2/poi-5.2.2.jar:/Users/saravana-2405/.m2/repository/commons-codec/commons-codec/1.15/commons-codec-1.15.jar:/Users/saravana-2405/.m2/repository/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.jar:/Users/saravana-2405/.m2/repository/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1.jar:/Users/saravana-2405/.m2/repository/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar:/Users/saravana-2405/.m2/repository/com/zaxxer/SparseBitSet/1.2/SparseBitSet-1.2.jar:/Users/saravana-2405/.m2/repository/org/apache/poi/poi-ooxml/5.2.2/poi-ooxml-5.2.2.jar:/Users/saravana-2405/.m2/repository/org/apache/poi/poi-ooxml-lite/5.2.2/poi-ooxml-lite-5.2.2.jar:/Users/saravana-2405/.m2/repository/org/apache/xmlbeans/xmlbeans/5.0.3/xmlbeans-5.0.3.jar:/Users/saravana-2405/.m2/repository/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar:/Users/saravana-2405/.m2/repository/com/github/virtuald/curvesapi/1.07/curvesapi-1.07.jar:/Users/saravana-2405/.m2/repository/org/apache/logging/log4j/log4j-api/2.18.0/log4j-api-2.18.0.jar:/Users/saravana-2405/.m2/repository/org/apache/logging/log4j/log4j-core/2.18.0/log4j-core-2.18.0.jar:/Users/saravana-2405/.m2/repository/org/seleniumhq/selenium/selenium-java/4.19.1/selenium-java-4.19.1.jar:/Users/saravana-2405/.m2/repository/org/seleniumhq/selenium/selenium-api/4.19.1/selenium-api-4.19.1.jar:/Users/saravana-2405/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.19.1/selenium-chrome-driver-4.19.1.jar:/Users/saravana-2405/.m2/repository/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1.jar:/Users/saravana-2405/.m2/repository/org/seleniumhq/selenium/selenium-chromium-driver/4.19.1/selenium-chromium-driver-4.19.1.jar:/Users/saravana-2405/.m2/repository/org/seleniumhq/selenium/selenium-json/4.19.1/selenium-json-4.19.1.jar:/Users/saravana-2405/.m2/repository/org/seleniumhq/selenium/selenium-manager/4.19.1/selenium-manager-4.19.1.jar:/Users/saravana-2405/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v121/4.19.1/selenium-devtools-v121-4.19.1.jar:/Users/saravana-2405/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v122/4.19.1/selenium-devtools-v122-4.19.1.jar:/Users/saravana-2405/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v123/4.19.1/selenium-devtools-v123-4.19.1.jar:/Users/saravana-2405/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v85/4.19.1/selenium-devtools-v85-4.19.1.jar:/Users/saravana-2405/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/4.19.1/selenium-edge-driver-4.19.1.jar:/Users/saravana-2405/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/4.19.1/selenium-firefox-driver-4.19.1.jar:/Users/saravana-2405/.m2/repository/org/seleniumhq/selenium/selenium-http/4.19.1/selenium-http-4.19.1.jar:/Users/saravana-2405/.m2/repository/dev/failsafe/failsafe/3.3.2/failsafe-3.3.2.jar:/Users/saravana-2405/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/4.19.1/selenium-ie-driver-4.19.1.jar:/Users/saravana-2405/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/4.19.1/selenium-remote-driver-4.19.1.jar:/Users/saravana-2405/.m2/repository/io/opentelemetry/semconv/opentelemetry-semconv/1.23.1-alpha/opentelemetry-semconv-1.23.1-alpha.jar:/Users/saravana-2405/.m2/repository/io/opentelemetry/opentelemetry-api/1.36.0/opentelemetry-api-1.36.0.jar:/Users/saravana-2405/.m2/repository/io/opentelemetry/opentelemetry-context/1.36.0/opentelemetry-context-1.36.0.jar:/Users/saravana-2405/.m2/repository/io/opentelemetry/opentelemetry-exporter-logging/1.36.0/opentelemetry-exporter-logging-1.36.0.jar:/Users/saravana-2405/.m2/repository/io/opentelemetry/opentelemetry-sdk-common/1.36.0/opentelemetry-sdk-common-1.36.0.jar:/Users/saravana-2405/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi/1.36.0/opentelemetry-sdk-extension-autoconfigure-spi-1.36.0.jar:/Users/saravana-2405/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure/1.36.0/opentelemetry-sdk-extension-autoconfigure-1.36.0.jar:/Users/saravana-2405/.m2/repository/io/opentelemetry/opentelemetry-api-events/1.36.0-alpha/opentelemetry-api-events-1.36.0-alpha.jar:/Users/saravana-2405/.m2/repository/io/opentelemetry/opentelemetry-sdk-trace/1.36.0/opentelemetry-sdk-trace-1.36.0.jar:/Users/saravana-2405/.m2/repository/io/opentelemetry/opentelemetry-extension-incubator/1.36.0-alpha/opentelemetry-extension-incubator-1.36.0-alpha.jar:/Users/saravana-2405/.m2/repository/io/opentelemetry/opentelemetry-sdk/1.36.0/opentelemetry-sdk-1.36.0.jar:/Users/saravana-2405/.m2/repository/io/opentelemetry/opentelemetry-sdk-metrics/1.36.0/opentelemetry-sdk-metrics-1.36.0.jar:/Users/saravana-2405/.m2/repository/io/opentelemetry/opentelemetry-sdk-logs/1.36.0/opentelemetry-sdk-logs-1.36.0.jar:/Users/saravana-2405/.m2/repository/net/bytebuddy/byte-buddy/1.14.12/byte-buddy-1.14.12.jar:/Users/saravana-2405/.m2/repository/org/seleniumhq/selenium/selenium-os/4.19.1/selenium-os-4.19.1.jar:/Users/saravana-2405/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/Users/saravana-2405/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/4.19.1/selenium-safari-driver-4.19.1.jar:/Users/saravana-2405/.m2/repository/org/seleniumhq/selenium/selenium-support/4.19.1/selenium-support-4.19.1.jar:"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/Users/saravana-2405"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2025-01-21"/>
+    <property name="java.home" value="/opt/homebrew/Cellar/openjdk/23.0.2/libexec/openjdk.jdk/Contents/Home"/>
+    <property name="file.separator" value="/"/>
+    <property name="https.proxyHost" value="127.0.0.1"/>
+    <property name="basedir" value="/Users/saravana-2405/eclipse-workspace/SpotifyRestAutomation/SpotifyRestautomation"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="apple.awt.application.name" value="ForkedBooter"/>
+    <property name="surefire.real.class.path" value="/Users/saravana-2405/eclipse-workspace/SpotifyRestAutomation/SpotifyRestautomation/target/surefire/surefirebooter-20250705120052485_3.jar"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="ftp.nonProxyHosts" value="127.0.0.1|127.0.0.0/8|*.127.0.0.0/8|::1|zohomeeting.com|*.zohomeeting.com|zohoassist.com|*.zohoassist.com|avcliq.zoho.com|*.avcliq.zoho.com|zohomeeting.com|*.zohomeeting.com|zohoassist.com|*.zohoassist.com|zohopublic.com|*.zohopublic.com|zohopublic.in|*.zohopublic.in|zohopublic.eu|*.zohopublic.eu|zohopublic.com.au|*.zohopublic.com.au|zohopublic.jp|*.zohopublic.jp|zohopublic.ca|*.zohopublic.ca|zohopublic.sa|*.zohopublic.sa|us4-wss-accl.zoho.com|*.us4-wss-accl.zoho.com|us4-wss.zoho.com|*.us4-wss.zoho.com|us3-wss-accl.zoho.com|*.us3-wss-accl.zoho.com|us3-wss.zoho.com|*.us3-wss.zoho.com|in2-wss.zoho.in|*.in2-wss.zoho.in|in1-wss.zoho.in|*.in1-wss.zoho.in|eu1-wss.zoho.eu|*.eu1-wss.zoho.eu|eu2-wss.zoho.eu|*.eu2-wss.zoho.eu|cn2-wss.zoho.com.cn|*.cn2-wss.zoho.com.cn|cn3-wss.zoho.com.cn|*.cn3-wss.zoho.com.cn|au1-wss.zoho.com.au|*.au1-wss.zoho.com.au|au2-wss.zoho.com.au|*.au2-wss.zoho.com.au|jp1-wss.zoho.jp|*.jp1-wss.zoho.jp|jp2-wss.zoho.jp|*.jp2-wss.zoho.jp|ca1-wss.zohocloud.ca|*.ca1-wss.zohocloud.ca|ca2-wss.zohocloud.ca|*.ca2-wss.zohocloud.ca|sa1-wss.zoho.sa|*.sa1-wss.zoho.sa|sa2-wss.zoho.sa|*.sa2-wss.zoho.sa|in1-wss.arattai.in|*.in1-wss.arattai.in|in2-wss.arattai.in|*.in2-wss.arattai.in|preus4-wss.zoho.com|*.preus4-wss.zoho.com|preus3-wss.zoho.com|*.preus3-wss.zoho.com|us4-wss-pop.zoho.com|*.us4-wss-pop.zoho.com|us3-wss-pop.zoho.com|*.us3-wss-pop.zoho.com|in2-wss-pop.zoho.in|*.in2-wss-pop.zoho.in|in1-wss-pop.zoho.in|*.in1-wss-pop.zoho.in|eu1-wss-pop.zoho.eu|*.eu1-wss-pop.zoho.eu|eu2-wss-pop.zoho.eu|*.eu2-wss-pop.zoho.eu|cn2-wss-pop.zoho.com.cn|*.cn2-wss-pop.zoho.com.cn|cn3-wss-pop.zoho.com.cn|*.cn3-wss-pop.zoho.com.cn|au1-wss-pop.zoho.com.au|*.au1-wss-pop.zoho.com.au|au2-wss-pop.zoho.com.au|*.au2-wss-pop.zoho.com.au|jp1-wss-pop.zoho.jp|*.jp1-wss-pop.zoho.jp|jp2-wss-pop.zoho.jp|*.jp2-wss-pop.zoho.jp|ca1-wss-pop.zohocloud.ca|*.ca1-wss-pop.zohocloud.ca|ca2-wss-pop.zohocloud.ca|*.ca2-wss-pop.zohocloud.ca|sa1-wss-pop.zoho.sa|*.sa1-wss-pop.zoho.sa|sa2-wss-pop.zoho.sa|*.sa2-wss-pop.zoho.sa|in2-prewss-pop.zoho.in|*.in2-prewss-pop.zoho.in|in1-prewss-pop.zoho.in|*.in1-prewss-pop.zoho.in|us4-wss-vod.zoho.com|*.us4-wss-vod.zoho.com|us3-wss-vod.zoho.com|*.us3-wss-vod.zoho.com|in2-wss-vod.zoho.in|*.in2-wss-vod.zoho.in|in1-wss-vod.zoho.in|*.in1-wss-vod.zoho.in|eu1-wss-vod.zoho.eu|*.eu1-wss-vod.zoho.eu|eu2-wss-vod.zoho.eu|*.eu2-wss-vod.zoho.eu|cn2-wss-vod.zoho.com.cn|*.cn2-wss-vod.zoho.com.cn|cn3-wss-vod.zoho.com.cn|*.cn3-wss-vod.zoho.com.cn|au1-wss-vod.zoho.com.au|*.au1-wss-vod.zoho.com.au|au2-wss-vod.zoho.com.au|*.au2-wss-vod.zoho.com.au|jp1-wss-vod.zoho.jp|*.jp1-wss-vod.zoho.jp|jp2-wss-vod.zoho.jp|*.jp2-wss-vod.zoho.jp|ca1-wss-vod.zohocloud.ca|*.ca1-wss-vod.zohocloud.ca|ca2-wss-vod.zohocloud.ca|*.ca2-wss-vod.zohocloud.ca|sa1-wss-vod.zoho.sa|*.sa1-wss-vod.zoho.sa|sa2-wss-vod.zoho.sa|*.sa2-wss-vod.zoho.sa|in1-wss-vod.arattai.in|*.in1-wss-vod.arattai.in|in2-wss-vod.arattai.in|*.in2-wss-vod.arattai.in|us4-prewss-vod.zoho.com|*.us4-prewss-vod.zoho.com|us3-prewss-vod.zoho.com|*.us3-prewss-vod.zoho.com|zohoconference.com|*.zohoconference.com"/>
+    <property name="java.runtime.version" value="23.0.2"/>
+    <property name="user.name" value="saravana-2405"/>
+    <property name="stdout.encoding" value="UTF-8"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="15.5"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Homebrew"/>
+    <property name="localRepository" value="/Users/saravana-2405/.m2/repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/Homebrew/homebrew-core/issues"/>
+    <property name="java.io.tmpdir" value="/var/folders/8t/_vyxx2s526g5g07kh5ybkwk80000gp/T/"/>
+    <property name="java.version" value="23.0.2"/>
+    <property name="user.dir" value="/Users/saravana-2405/eclipse-workspace/SpotifyRestAutomation/SpotifyRestautomation"/>
+    <property name="os.arch" value="aarch64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="native.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/Users/saravana-2405/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="UTF-8"/>
+    <property name="java.vendor" value="Homebrew"/>
+    <property name="java.vm.version" value="23.0.2"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="socksNonProxyHosts" value="127.0.0.1|127.0.0.0/8|*.127.0.0.0/8|::1|zohomeeting.com|*.zohomeeting.com|zohoassist.com|*.zohoassist.com|avcliq.zoho.com|*.avcliq.zoho.com|zohomeeting.com|*.zohomeeting.com|zohoassist.com|*.zohoassist.com|zohopublic.com|*.zohopublic.com|zohopublic.in|*.zohopublic.in|zohopublic.eu|*.zohopublic.eu|zohopublic.com.au|*.zohopublic.com.au|zohopublic.jp|*.zohopublic.jp|zohopublic.ca|*.zohopublic.ca|zohopublic.sa|*.zohopublic.sa|us4-wss-accl.zoho.com|*.us4-wss-accl.zoho.com|us4-wss.zoho.com|*.us4-wss.zoho.com|us3-wss-accl.zoho.com|*.us3-wss-accl.zoho.com|us3-wss.zoho.com|*.us3-wss.zoho.com|in2-wss.zoho.in|*.in2-wss.zoho.in|in1-wss.zoho.in|*.in1-wss.zoho.in|eu1-wss.zoho.eu|*.eu1-wss.zoho.eu|eu2-wss.zoho.eu|*.eu2-wss.zoho.eu|cn2-wss.zoho.com.cn|*.cn2-wss.zoho.com.cn|cn3-wss.zoho.com.cn|*.cn3-wss.zoho.com.cn|au1-wss.zoho.com.au|*.au1-wss.zoho.com.au|au2-wss.zoho.com.au|*.au2-wss.zoho.com.au|jp1-wss.zoho.jp|*.jp1-wss.zoho.jp|jp2-wss.zoho.jp|*.jp2-wss.zoho.jp|ca1-wss.zohocloud.ca|*.ca1-wss.zohocloud.ca|ca2-wss.zohocloud.ca|*.ca2-wss.zohocloud.ca|sa1-wss.zoho.sa|*.sa1-wss.zoho.sa|sa2-wss.zoho.sa|*.sa2-wss.zoho.sa|in1-wss.arattai.in|*.in1-wss.arattai.in|in2-wss.arattai.in|*.in2-wss.arattai.in|preus4-wss.zoho.com|*.preus4-wss.zoho.com|preus3-wss.zoho.com|*.preus3-wss.zoho.com|us4-wss-pop.zoho.com|*.us4-wss-pop.zoho.com|us3-wss-pop.zoho.com|*.us3-wss-pop.zoho.com|in2-wss-pop.zoho.in|*.in2-wss-pop.zoho.in|in1-wss-pop.zoho.in|*.in1-wss-pop.zoho.in|eu1-wss-pop.zoho.eu|*.eu1-wss-pop.zoho.eu|eu2-wss-pop.zoho.eu|*.eu2-wss-pop.zoho.eu|cn2-wss-pop.zoho.com.cn|*.cn2-wss-pop.zoho.com.cn|cn3-wss-pop.zoho.com.cn|*.cn3-wss-pop.zoho.com.cn|au1-wss-pop.zoho.com.au|*.au1-wss-pop.zoho.com.au|au2-wss-pop.zoho.com.au|*.au2-wss-pop.zoho.com.au|jp1-wss-pop.zoho.jp|*.jp1-wss-pop.zoho.jp|jp2-wss-pop.zoho.jp|*.jp2-wss-pop.zoho.jp|ca1-wss-pop.zohocloud.ca|*.ca1-wss-pop.zohocloud.ca|ca2-wss-pop.zohocloud.ca|*.ca2-wss-pop.zohocloud.ca|sa1-wss-pop.zoho.sa|*.sa1-wss-pop.zoho.sa|sa2-wss-pop.zoho.sa|*.sa2-wss-pop.zoho.sa|in2-prewss-pop.zoho.in|*.in2-prewss-pop.zoho.in|in1-prewss-pop.zoho.in|*.in1-prewss-pop.zoho.in|us4-wss-vod.zoho.com|*.us4-wss-vod.zoho.com|us3-wss-vod.zoho.com|*.us3-wss-vod.zoho.com|in2-wss-vod.zoho.in|*.in2-wss-vod.zoho.in|in1-wss-vod.zoho.in|*.in1-wss-vod.zoho.in|eu1-wss-vod.zoho.eu|*.eu1-wss-vod.zoho.eu|eu2-wss-vod.zoho.eu|*.eu2-wss-vod.zoho.eu|cn2-wss-vod.zoho.com.cn|*.cn2-wss-vod.zoho.com.cn|cn3-wss-vod.zoho.com.cn|*.cn3-wss-vod.zoho.com.cn|au1-wss-vod.zoho.com.au|*.au1-wss-vod.zoho.com.au|au2-wss-vod.zoho.com.au|*.au2-wss-vod.zoho.com.au|jp1-wss-vod.zoho.jp|*.jp1-wss-vod.zoho.jp|jp2-wss-vod.zoho.jp|*.jp2-wss-vod.zoho.jp|ca1-wss-vod.zohocloud.ca|*.ca1-wss-vod.zohocloud.ca|ca2-wss-vod.zohocloud.ca|*.ca2-wss-vod.zohocloud.ca|sa1-wss-vod.zoho.sa|*.sa1-wss-vod.zoho.sa|sa2-wss-vod.zoho.sa|*.sa2-wss-vod.zoho.sa|in1-wss-vod.arattai.in|*.in1-wss-vod.arattai.in|in2-wss-vod.arattai.in|*.in2-wss-vod.arattai.in|us4-prewss-vod.zoho.com|*.us4-prewss-vod.zoho.com|us3-prewss-vod.zoho.com|*.us3-prewss-vod.zoho.com|zohoconference.com|*.zohoconference.com"/>
+    <property name="java.class.version" value="67.0"/>
+    <property name="http.proxyPort" value="3128"/>
+  </properties>
+  <testcase name="getCurrentUserId" classname="api.test.SpotifyCommonTest" time="0.8">
+    <system-out><![CDATA[Cleared: src/test/resources/output/playlist3_op.json
+Cleared: src/test/resources/output/PlaylistItems1_op.json
+Cleared: src/test/resources/output/SearchItems1_res.json
+Cleared: src/test/resources/output/trackuri1.json
+Cleared: src/test/resources/output/trackuri2.json
+Auth token loading from token_store.json file
+✅ Tokens loaded from: src/test/resources/token_store.json
+]]></system-out>
+    <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+]]></system-err>
+  </testcase>
+  <testcase name="getUsersPlaylist" classname="api.test.SpotifyCommonTest" time="0.292">
+    <system-out><![CDATA[https://api.spotify.com/v1/users/31tezlkurgq3i5pzptum4mnsy45m/playlists
+HTTP/1.1 200 OK
+content-type: application/json; charset=utf-8
+cache-control: public, max-age=0
+etag: "MC-IjIwNjljNjljNmFlOWM3ZDZjZjBiZTQxYmI4MmI1ZmUyIg=="
+vary: Authorization
+x-robots-tag: noindex, nofollow
+access-control-allow-origin: *
+access-control-allow-headers: Accept, App-Platform, Authorization, Content-Type, Origin, Retry-After, Spotify-App-Version, X-Cloud-Trace-Context, client-token, content-access-token
+access-control-allow-methods: GET, POST, OPTIONS, PUT, DELETE, PATCH
+access-control-allow-credentials: true
+access-control-max-age: 604800
+content-encoding: gzip
+strict-transport-security: max-age=31536000
+x-content-type-options: nosniff
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+date: Sat, 05 Jul 2025 06:31:00 GMT
+server: envoy
+Via: HTTP/2 edgeproxy, 1.1 google
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Transfer-Encoding: chunked
+
+{
+    "href": "https://api.spotify.com/v1/users/31tezlkurgq3i5pzptum4mnsy45m/playlists?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 2,
+    "items": [
+        {
+            "collaborative": false,
+            "description": "PlayList desc2",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/34prvscLP1o1MNtCeJ4W0W"
+            },
+            "href": "https://api.spotify.com/v1/playlists/34prvscLP1o1MNtCeJ4W0W",
+            "id": "34prvscLP1o1MNtCeJ4W0W",
+            "images": null,
+            "name": "PlayList Name2",
+            "owner": {
+                "display_name": "Sarvanm",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/31tezlkurgq3i5pzptum4mnsy45m"
+                },
+                "href": "https://api.spotify.com/v1/users/31tezlkurgq3i5pzptum4mnsy45m",
+                "id": "31tezlkurgq3i5pzptum4mnsy45m",
+                "type": "user",
+                "uri": "spotify:user:31tezlkurgq3i5pzptum4mnsy45m"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAABXB9h3T9J/U5aclN2DHbqNkgS0HA",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/34prvscLP1o1MNtCeJ4W0W/tracks",
+                "total": 0
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:34prvscLP1o1MNtCeJ4W0W"
+        },
+        {
+            "collaborative": false,
+            "description": "PlayList desc1",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/2LiTGLH80DUhAuoOv4AmhL"
+            },
+            "href": "https://api.spotify.com/v1/playlists/2LiTGLH80DUhAuoOv4AmhL",
+            "id": "2LiTGLH80DUhAuoOv4AmhL",
+            "images": null,
+            "name": "PlayList Name1",
+            "owner": {
+                "display_name": "Sarvanm",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/31tezlkurgq3i5pzptum4mnsy45m"
+                },
+                "href": "https://api.spotify.com/v1/users/31tezlkurgq3i5pzptum4mnsy45m",
+                "id": "31tezlkurgq3i5pzptum4mnsy45m",
+                "type": "user",
+                "uri": "spotify:user:31tezlkurgq3i5pzptum4mnsy45m"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAABVRUC+sHMcbnA7Fwf07a6w9sP5O0",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/2LiTGLH80DUhAuoOv4AmhL/tracks",
+                "total": 0
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2LiTGLH80DUhAuoOv4AmhL"
+        }
+    ]
+}
+]]></system-out>
+  </testcase>
+  <testcase name="CreateMultiplePlaylists" classname="api.test.SpotifyPlaylistTest" time="0.847"/>
+  <testcase name="DeleteMultiplePlaylists" classname="api.test.SpotifyPlaylistTest" time="0.619"/>
+  <testcase name="AddPlayListTest" classname="api.test.SpotifyPlaylistTest" time="0.277">
+    <system-out><![CDATA[Add Playlist Begins...
+Headers:		Authorization=Bearer BQAP8E0_WqoHw83fqRuxXPOcDN6A65I9KAzWQ5KzEGjCsae5kE1bl7g_Uofr1RL28oG75t3ZrRH2qP6we8mvz_y2B3gZ0adMIX-fN-YsVz4AL02jqe4vKqxxmm0KkDaDIIxkgN-X15YA51c_XCkfqLb9FUdj9HEYhpPvXEjuOhxMSg16b9iAEFP_Xd2jWkp9FEXEYiWDo1Et0lczLNKj-KeJ8QOJcyG2zBPMqrqJWYmYgLo8LQG8iLkEWQf5TakZ1-wGA0DXyVXqTCLFyd7sm1ACb7BBwZSlt0wluMd2EEKSZfMf6DrMHO37
+				Accept=*/*
+				Content-Type=application/json
+Body:
+{
+    "name": "Test1",
+    "description": "Test1 playlist description",
+    "public": "false"
+}
+HTTP/1.1 201 Created
+content-type: application/json; charset=utf-8
+cache-control: private, max-age=0
+x-robots-tag: noindex, nofollow
+access-control-allow-origin: *
+access-control-allow-headers: Accept, App-Platform, Authorization, Content-Type, Origin, Retry-After, Spotify-App-Version, X-Cloud-Trace-Context, client-token, content-access-token
+access-control-allow-methods: GET, POST, OPTIONS, PUT, DELETE, PATCH
+access-control-allow-credentials: true
+access-control-max-age: 604800
+content-encoding: gzip
+strict-transport-security: max-age=31536000
+x-content-type-options: nosniff
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+date: Sat, 05 Jul 2025 06:30:55 GMT
+server: envoy
+Via: HTTP/2 edgeproxy, 1.1 google
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Transfer-Encoding: chunked
+
+{
+    "collaborative": false,
+    "description": "Test1 playlist description",
+    "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/3crdtYMFJHfR4aq3Os9k53"
+    },
+    "followers": {
+        "href": null,
+        "total": 0
+    },
+    "href": "https://api.spotify.com/v1/playlists/3crdtYMFJHfR4aq3Os9k53",
+    "id": "3crdtYMFJHfR4aq3Os9k53",
+    "images": [
+        
+    ],
+    "primary_color": null,
+    "name": "Test1",
+    "type": "playlist",
+    "uri": "spotify:playlist:3crdtYMFJHfR4aq3Os9k53",
+    "owner": {
+        "href": "https://api.spotify.com/v1/users/31tezlkurgq3i5pzptum4mnsy45m",
+        "id": "31tezlkurgq3i5pzptum4mnsy45m",
+        "type": "user",
+        "uri": "spotify:user:31tezlkurgq3i5pzptum4mnsy45m",
+        "display_name": null,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/user/31tezlkurgq3i5pzptum4mnsy45m"
+        }
+    },
+    "public": true,
+    "snapshot_id": "AAABe1SNv3jnF02LvYZ58R3eyynaPKpw",
+    "tracks": {
+        "limit": 100,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "href": "https://api.spotify.com/v1/playlists/3crdtYMFJHfR4aq3Os9k53/tracks",
+        "total": 0,
+        "items": [
+            
+        ]
+    }
+}
+]]></system-out>
+  </testcase>
+  <testcase name="GetPlayListTest" classname="api.test.SpotifyPlaylistTest" time="0.215">
+    <system-out><![CDATA[Get Playlist Begins...
+HTTP/1.1 200 OK
+content-type: application/json; charset=utf-8
+cache-control: public, max-age=0
+etag: "MC-ImZmOWYyN2M0Njk0NmZlMzZhZmY0YzZjNjQ5NTBiM2FmIg=="
+x-robots-tag: noindex, nofollow
+access-control-allow-origin: *
+access-control-allow-headers: Accept, App-Platform, Authorization, Content-Type, Origin, Retry-After, Spotify-App-Version, X-Cloud-Trace-Context, client-token, content-access-token
+access-control-allow-methods: GET, POST, OPTIONS, PUT, DELETE, PATCH
+access-control-allow-credentials: true
+access-control-max-age: 604800
+content-encoding: gzip
+strict-transport-security: max-age=31536000
+x-content-type-options: nosniff
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+date: Sat, 05 Jul 2025 06:30:55 GMT
+server: envoy
+Via: HTTP/2 edgeproxy, 1.1 google
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Transfer-Encoding: chunked
+
+{
+    "collaborative": false,
+    "description": "Test1 playlist description",
+    "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/3crdtYMFJHfR4aq3Os9k53"
+    },
+    "followers": {
+        "href": null,
+        "total": 0
+    },
+    "href": "https://api.spotify.com/v1/playlists/3crdtYMFJHfR4aq3Os9k53",
+    "id": "3crdtYMFJHfR4aq3Os9k53",
+    "images": null,
+    "name": "Test1",
+    "owner": {
+        "display_name": "Sarvanm",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/user/31tezlkurgq3i5pzptum4mnsy45m"
+        },
+        "href": "https://api.spotify.com/v1/users/31tezlkurgq3i5pzptum4mnsy45m",
+        "id": "31tezlkurgq3i5pzptum4mnsy45m",
+        "type": "user",
+        "uri": "spotify:user:31tezlkurgq3i5pzptum4mnsy45m"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "AAAAAW8mPLMyJYqyvagpLTupCSfPNe03",
+    "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/3crdtYMFJHfR4aq3Os9k53/tracks?offset=0&limit=0",
+        "items": [
+            
+        ],
+        "limit": 0,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 0
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:3crdtYMFJHfR4aq3Os9k53"
+}
+]]></system-out>
+  </testcase>
+  <testcase name="UpdatePlayListTest" classname="api.test.SpotifyPlaylistTest" time="0.241">
+    <system-out><![CDATA[Update Playlist Begins...
+Headers:		Authorization=Bearer BQAP8E0_WqoHw83fqRuxXPOcDN6A65I9KAzWQ5KzEGjCsae5kE1bl7g_Uofr1RL28oG75t3ZrRH2qP6we8mvz_y2B3gZ0adMIX-fN-YsVz4AL02jqe4vKqxxmm0KkDaDIIxkgN-X15YA51c_XCkfqLb9FUdj9HEYhpPvXEjuOhxMSg16b9iAEFP_Xd2jWkp9FEXEYiWDo1Et0lczLNKj-KeJ8QOJcyG2zBPMqrqJWYmYgLo8LQG8iLkEWQf5TakZ1-wGA0DXyVXqTCLFyd7sm1ACb7BBwZSlt0wluMd2EEKSZfMf6DrMHO37
+				Accept=*/*
+				Content-Type=application/json
+Body:
+{
+    "name": "Test1Mod",
+    "description": "Test1Mod playlist description",
+    "collaborative": "false",
+    "public": true
+}
+HTTP/1.1 200 OK
+cache-control: private, max-age=0
+x-robots-tag: noindex, nofollow
+access-control-allow-origin: *
+access-control-allow-headers: Accept, App-Platform, Authorization, Content-Type, Origin, Retry-After, Spotify-App-Version, X-Cloud-Trace-Context, client-token, content-access-token
+access-control-allow-methods: GET, POST, OPTIONS, PUT, DELETE, PATCH
+access-control-allow-credentials: true
+access-control-max-age: 604800
+Content-Length: 0
+strict-transport-security: max-age=31536000
+x-content-type-options: nosniff
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+date: Sat, 05 Jul 2025 06:30:55 GMT
+server: envoy
+Via: HTTP/2 edgeproxy, 1.1 google
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+]]></system-out>
+  </testcase>
+  <testcase name="DeletePlaylistTest" classname="api.test.SpotifyPlaylistTest" time="0.199"/>
+  <testcase name="AddPlaylistforItems" classname="api.test.SpotifyPlaylistItemsTest" time="0.784">
+    <system-out><![CDATA[Create playlist
+Create playlist
+Create playlist
+]]></system-out>
+  </testcase>
+  <testcase name="SearchItems" classname="api.test.SpotifyPlaylistItemsTest" time="0.75">
+    <system-out><![CDATA[[4Q0qVhFQa7j6jRKzo3HDmP, 0tgVpDi06FyKpA1z0VMD4v, 7qiZfU4dY1lWllzX7mPBI3, 0iIcuwia47B5bzjVpyUwyI, 27SdWb2rFzO6GWiYDBTD9j, 0GRc3eGTg8HBdWLRGYgqIc, 6habFhsOp2NvshLv26DqMb, 5BhCnMoTq4qI4vf37Ohlkm, 1nHKI4L5pWrN5CUvW07nHP, 6hE7M9H7AWVvXHlaMoMb3e, 3rmo8F54jFF8OgYsqTxm5d, 1HNkqx9Ahdgi1Ixy2xkKkL, 3zHq9ouUJQFQRf3cm1rRLu, 0afhq8XCExXpqazXczTSve, 0TK2YIli7K1leLovkQiNik, 50nfwKoDiSYg8zOCREWAm5, 5O2P9iiztwhomNh8xkR9lJ, 6epn3r7S14KUqlReYr77hA, 1GmZCrlwV00ObNUKS63fCs, 1Pp1XzwIXOxj2cb4c6Mkaw, 6hvRoJ0BTZywxu8UCPBkzx, 4AoZkg62rwaswC33mGS2mo, 2QxviKpVdEXKDWs706MUZB, 6CfWiCKBxbvL6bNnWQl8bV, 3HVWdVOQ0ZA45FuZGSfvns, 2d6wvuDLzBJnqbP9yuJTd5, 7uqv6RgJEZbm4299wNL4Jn, 47tdxjojS4KupiK5m7WWus, 1dyRiQZRGHZvesHh2hbp8g, 12BiwDmIlwF7D3MeIQ6Rn4, 0hVXuCcriWRGvwMV1r5Yn9, 7KPcippmg9MvPzb3dzNpQW, 2sMTmMYviXS6bgsWMTDZhB, 6TL2e7qK29LjXxCL0ReAEp, 0fed0fUD5T4GAW8XBEq020, 5kMziGZ4Ply3mnroy5Mohs, 1vf09n9QoDVWhBImRgQQyG, 5DXKvETa1xppOmd4CDxs9S, 74eJR4gwG1ZmG4BFkbrOlA, 4j2e9b40AwykxTq4mF272I, 6TIU9Ehmi6dMzZK73Ym4yj, 3SWLFqvadQmOMpEfrp4FMU, 1DSwFkEe28GSFmdIK92OFX]
+]]></system-out>
+  </testcase>
+  <testcase name="SearchItems1" classname="api.test.SpotifyPlaylistItemsTest" time="0.821">
+    <system-out><![CDATA[[0pqnGHJpmpxLKifKRmU6WP, 5qaEfEh1AtSdrdrByCP7qR, 1zB4vmk8tFRmM9UULNzbLB, 0HqZX76SFLDz2aW8aiqi7G, 54ipXppHLA8U4yqpOFTUhr, 6Qn5zhYkTa37e91HC1D7lb, 2RSHsoi04658QL5xgQVov3, 2J2Z1SkXYghSajLibnQHOa, 1r9xUipOqoNwggBpENDsvJ, 3CIyK1V4JEJkg02E4EJnDl, 62yJjFtgkhUrXktIoSjgP2, 2FY7b99s15jUprqC0M5NCT, 0FB5ILDICqwK6xj7W1RP9u, 7qiZfU4dY1lWllzX7mPBI3, 27SdWb2rFzO6GWiYDBTD9j, 04ONyebJMyt11q4IBBv4pt, 5X3T8jHNIJSXviiDmiBdz0, 4cktbXiXOapiLBMprHFErI, 1sWeSMifj6Z6kZyI6z3bRc, 213x4gsFDm04hSqIUkg88w, 6Tvzf3VEi16JMhAgOwdt2y, 147V5VjASBACOtfTnPBHTF, 3RiPr603aXAoi4GHyXx0uy, 2tpWsVSb9UEmDRxAl1zhX1, 3h4T9Bg8OVSUYa6danHeH5, 3zT2616WcD9Df5m21OsCX0, 698ItKASDavgwZ3WjaWjtz, 5VC29kHMkzcaorzPKUqJbl, 69yfbpvmkIaB10msnKT7Q5, 7MXlTgQeo3IVlMpLnZuhxc, 6aiHF2IbJr6lG4Vu9em8KF, 6xlOnm5MITIKtixzJW8R0j, 7sA2SKTo1QbTSSYn5YvJC4, 5UlnuulVAVmmesw4VzqHdG, 0LtkAAEpEp1lkLX1ZvjHZb, 6TEftSkmWdTm1EpThnwqh6, 7xDd7gl6AGgpiOz5trz4dM, 2sU9EjevkrU9OkPZudvFNN, 2YgKJbcFbdhpTIfypGD9nF, 6BOgN046AFobs2sZV7YlRy, 1y3bE5i57eUm3hfLAc7h08, 0TyUOnU4H4GLqOcrH0auc8]
+]]></system-out>
+  </testcase>
+  <testcase name="AddlayListItemTest" classname="api.test.SpotifyPlaylistItemsTest" time="0.759">
+    <system-out><![CDATA[URIS [spotify:track:4Q0qVhFQa7j6jRKzo3HDmP, spotify:track:0tgVpDi06FyKpA1z0VMD4v, spotify:track:7qiZfU4dY1lWllzX7mPBI3, spotify:track:0iIcuwia47B5bzjVpyUwyI, spotify:track:27SdWb2rFzO6GWiYDBTD9j, spotify:track:0GRc3eGTg8HBdWLRGYgqIc, spotify:track:6habFhsOp2NvshLv26DqMb, spotify:track:5BhCnMoTq4qI4vf37Ohlkm, spotify:track:1nHKI4L5pWrN5CUvW07nHP, spotify:track:6hE7M9H7AWVvXHlaMoMb3e, spotify:track:3rmo8F54jFF8OgYsqTxm5d, spotify:track:1HNkqx9Ahdgi1Ixy2xkKkL, spotify:track:3zHq9ouUJQFQRf3cm1rRLu, spotify:track:0afhq8XCExXpqazXczTSve, spotify:track:0TK2YIli7K1leLovkQiNik, spotify:track:50nfwKoDiSYg8zOCREWAm5, spotify:track:5O2P9iiztwhomNh8xkR9lJ, spotify:track:6epn3r7S14KUqlReYr77hA, spotify:track:1GmZCrlwV00ObNUKS63fCs, spotify:track:1Pp1XzwIXOxj2cb4c6Mkaw, spotify:track:6hvRoJ0BTZywxu8UCPBkzx, spotify:track:4AoZkg62rwaswC33mGS2mo, spotify:track:2QxviKpVdEXKDWs706MUZB, spotify:track:6CfWiCKBxbvL6bNnWQl8bV, spotify:track:3HVWdVOQ0ZA45FuZGSfvns, spotify:track:2d6wvuDLzBJnqbP9yuJTd5, spotify:track:7uqv6RgJEZbm4299wNL4Jn, spotify:track:47tdxjojS4KupiK5m7WWus, spotify:track:1dyRiQZRGHZvesHh2hbp8g, spotify:track:12BiwDmIlwF7D3MeIQ6Rn4, spotify:track:0hVXuCcriWRGvwMV1r5Yn9, spotify:track:7KPcippmg9MvPzb3dzNpQW, spotify:track:2sMTmMYviXS6bgsWMTDZhB, spotify:track:6TL2e7qK29LjXxCL0ReAEp, spotify:track:0fed0fUD5T4GAW8XBEq020, spotify:track:5kMziGZ4Ply3mnroy5Mohs, spotify:track:1vf09n9QoDVWhBImRgQQyG, spotify:track:5DXKvETa1xppOmd4CDxs9S, spotify:track:74eJR4gwG1ZmG4BFkbrOlA, spotify:track:4j2e9b40AwykxTq4mF272I, spotify:track:6TIU9Ehmi6dMzZK73Ym4yj, spotify:track:3SWLFqvadQmOMpEfrp4FMU, spotify:track:1DSwFkEe28GSFmdIK92OFX]
+Add items
+Add items
+Add items
+]]></system-out>
+  </testcase>
+  <testcase name="UpdatePlayListItemTest" classname="api.test.SpotifyPlaylistItemsTest" time="1.014">
+    <system-out><![CDATA[Items payload {range_start=1, insert_before=30, range_length=10}
+URIS spotify:track:0pqnGHJpmpxLKifKRmU6WP,spotify:track:5qaEfEh1AtSdrdrByCP7qR,spotify:track:1zB4vmk8tFRmM9UULNzbLB,spotify:track:0HqZX76SFLDz2aW8aiqi7G,spotify:track:54ipXppHLA8U4yqpOFTUhr,spotify:track:6Qn5zhYkTa37e91HC1D7lb,spotify:track:2RSHsoi04658QL5xgQVov3,spotify:track:2J2Z1SkXYghSajLibnQHOa,spotify:track:1r9xUipOqoNwggBpENDsvJ,spotify:track:3CIyK1V4JEJkg02E4EJnDl,spotify:track:62yJjFtgkhUrXktIoSjgP2,spotify:track:2FY7b99s15jUprqC0M5NCT,spotify:track:0FB5ILDICqwK6xj7W1RP9u,spotify:track:7qiZfU4dY1lWllzX7mPBI3,spotify:track:27SdWb2rFzO6GWiYDBTD9j,spotify:track:04ONyebJMyt11q4IBBv4pt,spotify:track:5X3T8jHNIJSXviiDmiBdz0,spotify:track:4cktbXiXOapiLBMprHFErI,spotify:track:1sWeSMifj6Z6kZyI6z3bRc,spotify:track:213x4gsFDm04hSqIUkg88w,spotify:track:6Tvzf3VEi16JMhAgOwdt2y,spotify:track:147V5VjASBACOtfTnPBHTF,spotify:track:3RiPr603aXAoi4GHyXx0uy,spotify:track:2tpWsVSb9UEmDRxAl1zhX1,spotify:track:3h4T9Bg8OVSUYa6danHeH5,spotify:track:3zT2616WcD9Df5m21OsCX0,spotify:track:698ItKASDavgwZ3WjaWjtz,spotify:track:5VC29kHMkzcaorzPKUqJbl,spotify:track:69yfbpvmkIaB10msnKT7Q5,spotify:track:7MXlTgQeo3IVlMpLnZuhxc,spotify:track:6aiHF2IbJr6lG4Vu9em8KF,spotify:track:6xlOnm5MITIKtixzJW8R0j,spotify:track:7sA2SKTo1QbTSSYn5YvJC4,spotify:track:5UlnuulVAVmmesw4VzqHdG,spotify:track:0LtkAAEpEp1lkLX1ZvjHZb,spotify:track:6TEftSkmWdTm1EpThnwqh6,spotify:track:7xDd7gl6AGgpiOz5trz4dM,spotify:track:2sU9EjevkrU9OkPZudvFNN,spotify:track:2YgKJbcFbdhpTIfypGD9nF,spotify:track:6BOgN046AFobs2sZV7YlRy,spotify:track:1y3bE5i57eUm3hfLAc7h08,spotify:track:0TyUOnU4H4GLqOcrH0auc8
+Update items
+playlist_id 7qYmRtx68xaNrsUJ1T7EIw
+Update items
+playlist_id 4H0R7KjgLP1aLroMJhAAup
+Update items
+playlist_id 3Udg74DnraEogMu8As31KE
+]]></system-out>
+  </testcase>
+  <testcase name="DeleteMultiplePlaylists" classname="api.test.SpotifyPlaylistItemsTest" time="0.599"/>
+</testsuite>
