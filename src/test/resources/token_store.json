@@ -1,7 +1,7 @@
 {
-  "access_token" : "<your access token>",
+  "access_token" : "<your token>",
   "token_type" : "Bearer",
   "expires_in" : 1751699925,
-  "refresh_token" : "<your refresh token>",
+  "refresh_token" : "<your token>",
   "scope" : "playlist-read-private playlist-read-collaborative playlist-modify-private playlist-modify-public"
 }
